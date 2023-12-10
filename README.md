@@ -1,6 +1,6 @@
 # <b> Meduzzen & U2D AI Internship </b><br>
 ## Projects Overview 
-I'd like to try my hand at all three challenges (NLP, email classification/extraction and object detection), but as a computational limguistics student I am particulary interested in NLP.
+I'd like to try my hand at all three challenges (NLP, email classification/extraction and object detection), but as a computational limguistics student I am particularly interested in NLP.
 ### NLP <br>
 
 Below is the list of Python modules I use in my work as a computational linguist. However, not all of them fit our requirements for this Internship, particularly, due to the limited number of supported languages.
@@ -20,7 +20,19 @@ Useful libraries for tackling NLP problems:
 
 ### Email 
 
+Working on tasks related to email classification and extraction, we deal with the text data in the first place, therefore, libraries listed in the NLP eection will come in handy. For emails classification we can use sklearn and tensorflow/keras libraries.
+
 ### Object Detection (CV)
+
+Useful Python packages for image & video data processing:
+
+|library   | description  | fits our needs  |
+|:---:|---|:---:|
+| OpenCv  | CV library focused on real-time applications. The library has a modular structure and includes several hundreds of computer vision algorithms. | :white_check_mark: |
+| Scikit-Image | Includes a collection of algorithms for image processing. Image processing toolbox for SciPy. | :white_check_mark:  |
+| Matplotlib | Library for creating static, animated and interactive visualisations. | :white_check_mark:  |
+| Pillow | Contains all the basic image processing functionality; intuitive and easy-to-use. | :white_check_mark:  |
+| numpy | While not being a specifically CV library, numpy provides powerful data structures and algorithms for easy image data manipulation. | :white_check_mark:  |
 
 
 
