@@ -1,7 +1,7 @@
 # <b> Meduzzen & U2D AI Internship </b><br>
 ## Projects Overview 
 I'd like to try my hand at all three challenges (NLP, email classification/extraction and object detection), but as a computational limguistics student I am particularly interested in NLP.
-### NLP <br>
+### :speaking_head: NLP <br>
 
 Below is the list of Python modules I use in my work as a computational linguist. However, not all of them fit our requirements for this Internship, particularly, due to the limited number of supported languages.
 
@@ -18,11 +18,11 @@ Useful libraries for tackling NLP problems:
 | Polyglot  | Polyglot supports various multilingual applications and offers a wide range of analysis. Applications: language detection, tokenization, NER, POS-tagginf, sentiment analysis. | :white_check_mark:  |   
 | nltk  | Suite of libraries and programs for symbolic and statistical NLP for English written in the Python programming language. | :no_entry: |   
 
-### Email 
+### :love_letter: Emails classification
 
-Working on tasks related to email classification and extraction, we deal with the text data in the first place, therefore, libraries listed in the NLP eection will come in handy. For emails classification we can use sklearn and tensorflow/keras libraries.
+Working on tasks related to email classification and extraction, we deal with the text data in the first place, therefore, libraries listed in the NLP section will come in handy. For emails classification we can use sklearn and tensorflow/keras libraries.
 
-### Object Detection (CV)
+### :video_camera: Object Detection (CV)
 
 Useful Python packages for image & video data processing:
 
