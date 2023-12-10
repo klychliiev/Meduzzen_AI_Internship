@@ -22,7 +22,7 @@ Useful libraries for tackling NLP problems:
 
 Working on tasks related to email classification and extraction, we deal with the text data in the first place, therefore, libraries listed in the NLP section will come in handy. For emails classification we can use sklearn and tensorflow/keras libraries.
 
-### :video_camera: Object Detection (CV)
+### :video_camera: Object detection (CV)
 
 Useful Python packages for image & video data processing:
 
@@ -30,7 +30,7 @@ Useful Python packages for image & video data processing:
 |:---:|---|:---:|
 | OpenCv  | CV library focused on real-time applications. The library has a modular structure and includes several hundreds of computer vision algorithms. | :white_check_mark: |
 | Scikit-Image | Includes a collection of algorithms for image processing. Image processing toolbox for SciPy. | :white_check_mark:  |
-| Matplotlib | Library for creating static, animated and interactive visualisations. | :white_check_mark:  |
+| matplotlib | Library for creating static, animated and interactive visualisations. | :white_check_mark:  |
 | Pillow | Contains all the basic image processing functionality; intuitive and easy-to-use. | :white_check_mark:  |
 | numpy | While not being a specifically CV library, numpy provides powerful data structures and algorithms for easy image data manipulation. | :white_check_mark:  |
 
