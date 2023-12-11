@@ -1,6 +1,11 @@
 # <b> Meduzzen & U2D AI Internship </b><br>
+
+## Environment
+To accomplish these challenges, I will use the VS Code Jupyter extension, and Google Colab whenever I need to build more sopihsitcated solutions requiring more computational capabilities.
+
 ## Projects Overview 
 I'd like to try my hand at all three challenges (NLP, email classification/extraction and object detection), but as a computational limguistics student I am particularly interested in NLP.
+
 ### :speaking_head: NLP <br>
 
 Below is the list of Python modules I use in my work as a computational linguist. However, not all of them fit our requirements for this Internship, particularly, due to the limited number of supported languages.
