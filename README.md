@@ -8,7 +8,7 @@ I'd like to try my hand at all three challenges (NLP, email classification/extra
 
 ### :speaking_head: NLP <br>
 
-Below is the list of Python modules I use in my work as a computational linguist. However, not all of them fit our requirements for this Internship, particularly, due to the limited number of supported languages.
+Below is the list of Python NLP modules I use in my work as a computational linguist. However, not all of them fit our requirements for this Internship, particularly, due to the limited number of supported languages.
 
 Useful libraries for tackling NLP problems:
 
@@ -23,9 +23,18 @@ Useful libraries for tackling NLP problems:
 | Polyglot  | Polyglot supports various multilingual applications and offers a wide range of analysis. Applications: language detection, tokenization, NER, POS-tagginf, sentiment analysis. | :white_check_mark:  |   
 | nltk  | Suite of libraries and programs for symbolic and statistical NLP for English written in the Python programming language. | :no_entry: |   
 
+I personally prefer spacy and stanza to a smaller extent for their diversity and overall accuracy for different tasks. When dealing with word vectors I use fasttext. Whenever I need a language detection I use langdetect. For example. recently I've been working on a hatespeech project and had to filter for posts written in the Ukrainian language only. 
+
 ### :love_letter: Emails classification
 
 Working on tasks related to email classification and extraction, we deal with the text data in the first place, therefore, libraries listed in the NLP section will come in handy. For emails classification we can use sklearn and tensorflow/keras libraries.
+
+|  library | description  | fits our need  |
+|:---:|---|:---:|
+|Scikit-learn | Open-source Python library which includes implementations of many traditional ML algorithms. | :white_check_mark: |
+| TensorFlow | Open-source framework for prototyping and assessing machine learning models, primarily neural networks. | :white_check_mark: |
+
+TensorFlow and Scikit-learn can be used for object detection and NLP as well. For instance, Tensorflow CNNs come in handy when working with images/video, while for NLP problems RNNs and LSTMs are often used. 
 
 ### :video_camera: Object detection (CV)
 
