@@ -48,5 +48,7 @@ Useful Python packages for image & video data processing:
 | Pillow | Contains all the basic image processing functionality; intuitive and easy-to-use. | :white_check_mark:  |
 | numpy | While not being a specifically CV library, numpy provides powerful data structures and algorithms for easy image data manipulation. | :white_check_mark:  |
 
-
+## Author 
+:man_technologist: Kyrylo Klychliiev
+:house: Kyiv, Ukraine
 
