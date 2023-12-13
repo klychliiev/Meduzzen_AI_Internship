@@ -49,6 +49,6 @@ Useful Python packages for image & video data processing:
 | numpy | While not being a specifically CV library, numpy provides powerful data structures and algorithms for easy image data manipulation. | :white_check_mark:  |
 
 ## Author 
-:man_technologist: Kyrylo Klychliiev
+:man_technologist: Kyrylo Klychliiev <br>
 :house: Kyiv, Ukraine
 
