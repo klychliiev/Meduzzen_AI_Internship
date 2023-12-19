@@ -10,7 +10,7 @@ I'd like to try my hand at all three challenges (NLP, email classification/extra
 
 Below is the list of Python NLP modules I use in my work as a computational linguist. However, not all of them fit our requirements for this Internship, particularly, due to the limited number of supported languages.
 
-Useful libraries for tackling NLP problems:
+Useful libraries for solving NLP problems:
 
 | <center>library  | <center> description  | <center> fits our needs |
 |:---:|---|:---:|
