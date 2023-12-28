@@ -1,0 +1,27 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	19.02.2001 11:02:26
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Christian Bleser
+Handyrufnummer : 49 163 2537372
+Account Nummer :
+Handymodell    : siemens s35i
+Provider       : E-Plus Service
+Email          : cbsound@gmx.de
+-------------------------------------
+Nachricht      : Sehr geehrte Damen und Herren,
+
+ich würde gerne von GMX über eingehende E-Mails per SmS benachrichtigt 
+werden. Dazu brauche ich allerdings eine Gatewayadresse. Gibt es so eine 
+bei E-Plus und wie lautet diese. Danke für ihre bemühungen.
+
+Christian Bleser
+-------------------------------------
+--497944329.982576946533.JavaMail.nsuser@app01mn1--
+

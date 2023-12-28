@@ -1,0 +1,43 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	29.11.2001 15:41:01
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Timo Schneider
+Handyrufnummer : 49 163 2608681
+Account Nummer : 1665062
+Handymodell    : 6210
+Provider       : E-Plus Service
+Email          : mail@timo-schneider.de
+-------------------------------------
+Nachricht      : Sehr geehrte Damen und Herren,
+
+ich wollte ihr cgi-Script über meine Homepage nutzen. Mehrere Tests, eine 
+e-Mail darüber zu versenden, erbrachten zwar die Mitteilung, dass die Mail 
+abgesendet wurde, allerdings habe ich diese bislang nicht erhalten! (Warte 
+schon über eine Stunde?) ;-)
+
+Weder über ihr Original-Formular (mailform.html, wo das cgi-Script im 
+Hintergrund ausgeführt wird) noch über die von mir modifizierte html-Datei 
+konnte ich eine bestätigt abgesendete e-Mail erhalten!
+
+Gibt es derzeit Probleme mit dem Script??
+
+Sie können sich den modifizierten Quellcode über meine Homepage ansehen:
+http://www.timo-schneider.de
+
+Dort unter dem Link ?SMS? wird die modifizierte HTML-Datei aufgerufen.
+
+Mein Homedirectory lautet: webcamvontimo
+
+Mit freundlichen Grüssen
+
+Timo Schneider
+-------------------------------------
+--12121317.1007044861212.JavaMail.nsuser@apps2mn1--
+

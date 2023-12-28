@@ -1,0 +1,28 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	12.08.2001 02:02:38
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Derek Wilfert
+Handyrufnummer : 49 177 2340046
+Account Nummer : 142113
+Handymodell    : NOKIA 7110
+Provider       : E-Plus Service
+Email          : d.wilfert@eplus-online.de
+-------------------------------------
+Nachricht      : Hallo Eplus-Team
+Ich möchte geren über die Infrarot-Schnittstelle meines Telefons ins 
+Internet. Wenn ich die mitgelieferte Software vom Telefon installieren 
+will. Sucht diese nach "Mocrosoft Infrarot Support". Diesen Treiber kann 
+ich unter Windows Me aber nicht finden. Können Sie mir sagen, wo ich 
+diesen Treiber bekommen, oder das Problem anders lösen kann.
+MfG
+Derek Wilfert
+-------------------------------------
+--443734232.997578158015.JavaMail.nsuser@apps1mn1--
+

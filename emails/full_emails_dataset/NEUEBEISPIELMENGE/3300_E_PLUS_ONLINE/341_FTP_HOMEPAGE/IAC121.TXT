@@ -1,0 +1,32 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	11.08.2001 12:17:00
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Frau
+Name           : andreas hahn
+Handyrufnummer : 49 163 3332928
+Account Nummer : 1166133
+Handymodell    : nokia 6210
+Provider       : E-Plus Service
+Email          : supahahn@gmx.de
+-------------------------------------
+Nachricht      : frage zur einstellung meines ftp-servers, um meine 
+homepage zu erstellen:
+
+mit server: ftp.eplus-online.de
+Host-name/adresse: home.eplus-online.de/supahahn/
+
+dem korrekten benutzernamen und meinem passwort bekomme ich immer den 
+fehler angezeigt das der host-name falsch ist...
+habe alle varianten ausprobiert, was mache ich falsch???
+
+gruss und
+danke im voraus
+
+andreas hahn
+-------------------------------------

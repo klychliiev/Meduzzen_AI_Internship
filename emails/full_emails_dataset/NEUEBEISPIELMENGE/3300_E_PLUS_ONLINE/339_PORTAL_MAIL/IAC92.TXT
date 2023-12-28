@@ -1,0 +1,27 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	28.11.2001 21:28:51
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : andreas ebbert
+Handyrufnummer : 49 177 2708640
+Account Nummer :
+Handymodell    : 3330
+Provider       : E-Plus Service
+Email          : ebbert@nq4.de
+-------------------------------------
+Nachricht      : Hi!
+Ich habe unter meinem EPlus-Mail-Account jetzt SMS-Notifikation 
+eingestellt, habe mir selbst einige Testmails von einem anderen Account 
+geschickt, aber nichts passiert. Was läuft falsch?
+
+Gruss,
+Andreas Ebbert
+-------------------------------------
+--820618.1006979331474.JavaMail.nsuser@apps2mn1--
+

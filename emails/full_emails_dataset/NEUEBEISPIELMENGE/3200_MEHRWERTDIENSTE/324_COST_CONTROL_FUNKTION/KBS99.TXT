@@ -1,0 +1,33 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	06.07.2001 15:42:14
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Michael Stanke
+Handyrufnummer : 49 177 2920140
+Account Nummer : 613194
+Handymodell    : siemens s35
+Provider       : E-Plus Service
+Email          : m.stanke@gmx.de
+-------------------------------------
+Nachricht      : Thema: Cost Control
+Ich besitze den Tarif Time&More 120Students. Warum wird bei Cost Control 
+sowohl im Internet sowie über 0177-1112 ständig ein falsches Minutenkonto 
+angezeigt. Hierbei handelt es sich nicht um einen minimalen Fehler, 
+sondern um ca. 120 Minuten. Für die Planung eines Monats ist die sehr 
+störend. Außerdem werden ständig weitere Gesprächskosten angezeigt, die 
+eigentlich nicht entstanden sein können. Da E-Plus die jeweilige Rechnung 
+ca. 1 Monat später schickt (dies ist eigentlich auch schon merkwürdig), 
+kann man keine Daten erfahren, auf die man sich dann verlassen kann.
+
+Meine Frage:
+- Warum entstehen diese starken Verzerrungen bei Cost Control (bei anderen 
+Freunden von mir funktioniert es ja auch!)?
+-------------------------------------
+--443572304.994430534044.JavaMail.nsuser@apps2mn1--
+

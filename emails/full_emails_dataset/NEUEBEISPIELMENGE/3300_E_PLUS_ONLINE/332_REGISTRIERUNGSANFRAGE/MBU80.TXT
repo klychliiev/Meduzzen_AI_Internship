@@ -1,0 +1,35 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	01.11.2001 22:24:34
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Nikolai Schwerg
+Handyrufnummer : 49 177 2924942
+Account Nummer :
+Handymodell    :
+Provider       : E-Plus Service
+Email          : schwerg@gmx.de
+-------------------------------------
+Nachricht      : Ich wollte mich für eplus-online anmelden. Leider erhilt 
+ich nur folgendende Fehlermeldung anstatt eines Registrierungsformulars:
+
+Error (0x1 0x0 0x0 0x80020007):
+
+---------------------------------------------------------------------------
+-----
+
+BIND step: could not bind to {82F61D9A-A5C5-1B66-8A4B-080020ABFA93
+
+Was kann man da tun?
+
+MfG
+
+N. Schwerg
+-------------------------------------
+--444052720.1004649874203.JavaMail.nsuser@apps1mn1--
+

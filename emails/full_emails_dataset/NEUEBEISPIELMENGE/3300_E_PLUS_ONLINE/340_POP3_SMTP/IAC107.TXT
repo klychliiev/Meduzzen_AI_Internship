@@ -1,0 +1,23 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	18.11.2001 22:41:44
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Frau
+Name           : Guido Rocholl
+Handyrufnummer : 49 163 7624655
+Account Nummer : 2145041
+Handymodell    : 6210
+Provider       : E-Plus Service
+Email          : guido.rocholl@eplus-online.de
+-------------------------------------
+Nachricht      : Welchen Mail Server muﬂ ich bei ausgehenden Nachrichten 
+in meinem Browser eingeben???
+Momentan kommen meine E-Mails nicht bei anderen an...
+-------------------------------------
+--443785186.1006119704240.JavaMail.nsuser@apps2mn1--
+

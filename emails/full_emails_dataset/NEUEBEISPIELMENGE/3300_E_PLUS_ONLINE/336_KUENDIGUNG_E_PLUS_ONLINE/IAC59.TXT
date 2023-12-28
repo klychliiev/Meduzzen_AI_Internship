@@ -1,0 +1,30 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	04.02.2001 12:37:46
+Betreff:	E-Mail Beantwortung  [Virus checked]
+
+	  
+
+
+--497888669.981286666042.JavaMail.nsuser@app04mn1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=ISO-8859-1
+
+Anrede         : Herr
+Name           : Marcus Martin
+Handyrufnummer : 49 177 3314258
+Account Nummer : 2285861 1101085
+Handymodell    : Motorola Timeport
+Provider       : E-Plus Service
+Email          : marcus.martin@web.de
+-------------------------------------
+Nachricht      : Hallo !
+Bitte l=F6schen Sie meinen Online und eMail Account. Bitte erstellen Sie 
+mi=
+r einen entsprechenden Bescheid.
+Danke !!!
+
+MfG Marcus Martin
+-------------------------------------
+--497888669.981286666042.JavaMail.nsuser@app04mn1--
+

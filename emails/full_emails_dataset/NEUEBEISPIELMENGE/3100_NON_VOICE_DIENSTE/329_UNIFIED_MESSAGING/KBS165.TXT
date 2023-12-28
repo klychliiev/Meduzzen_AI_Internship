@@ -1,0 +1,41 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	interessentenservice@eplus-online.de 
+Datum:	12.06.2001 13:35:00
+Betreff:	Unified Mailbox
+
+	  
+
+
+
+Sehr geehrte Damen und Herren,
+
+vielen Dank für die Beantwortung meiner letzten EMail durch Herrn Reimers 
+(?) Rückruf,seine Weiterleitung an das Projektteam und den Rückruf von 
+dort.
+Dabei wurde mir mitgeteilt, dass ein Abrufen der Faxe als angehängte 
+EMail-Dateien über PO3 nicht vorgesehen sei, ausschließlich über den 
+persönlichen acoount via webmail erfolgen kann.
+Gestatten Sie mir hierzubitee  nochmals folgenden Hinweis:
+
+Webmail funktioniert nicht von mobilen Endgeräten, die z.B. mit dem 
+Betriebssystem Windows CE arbeiten, weil seine Java-Basierung nicht 
+umgsetzt werden kann. (Ähnlich verhält es sich mit EPOC-Systemen.)
+Dieses Betriebssystem ist aber das mit den höchsten Expansionsraten.  Hier 
+ist der User eben doch auf den Abruf via POP3 angewiesen. Fremdanbieter 
+wie web.de, daybyday etc. bieten diese Möglichkeit schon lange an. Warum 
+muss der e-plus-Kunde hierhin abwandern?
+
+Dazu dass, der Faxempfang seit Freitag nur bei ausgeschaltetem oder durch 
+Gespräch belegten Handy erfolgen kann, gab es leider bisher keine Auskunft.
+
+Die SMS-Mitteilung über eingegangene Mails und Faxe ist mittlwereile bei 
+den Arbeiten ebenfalss auf der Strecke geblieben.
+
+MfG
+Eckhard Lischka
+
+0177 2670770
+mailto:elischka@eplus-online.de
+
+
+

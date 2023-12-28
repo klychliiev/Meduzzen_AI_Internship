@@ -1,0 +1,82 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	06.04.2001 06:07:11
+Betreff:	Re: E-Plus Service: Homepage
+
+	  
+
+
+
+Natürlich können Sie noch was für mich tun. :-)
+Zum Beispiel können Sie mir erklären wie der Punkt
+1.5 in ihren AGB's zu verstehen ist. Zu finden unter
+http://www.eplus-online.de/agb/online_kunden.html#LB
+Dort steht, zumindest für mich so zu verstehen, dass
+Sie CGI-Scripte zur Verfügung stellen, welche in die
+Homepage einbaubar sind. Das es solche Scripte in Massen
+im Netz gibt ist mir bekannt, aber nicht meine Frage.
+In Absatz 1.5 steht eindeutig:
+
+EPS stellt dem Kunden Speicherplatz zum Errichten und Betreiben einer
+privaten Homepage unter der Domain "home.eplus-online.de" zur Verfügung.
+Für diese Homepage gelten folgende Leistungsparameter:
+
+10 MByte maximale Speicherkapazität
+Standard-CGI-Skripte, z.B. für Besucherzähler, Reporting und Gästebuch
+
+Ich bitte höfflichst darum, mir die benötigten Tags oder Hilfen zu
+nennen.
+
+Mit freundlichen Grüßen und im vorraus dankend für die Hilfe
+
+Thorsten Hering
+----- Originalnachricht -----
+Von: kundenservice@eplus.de
+Datum: Mittwoch, 4. April  2001, 11:26
+Betreff: E-Plus Service: Homepage
+
+> Sehr geehrter Herr Hering,
+>
+> vielen Dank für Ihre Nachricht.
+>
+> Die vorgefertigten CGI-Scripte sind für das Homepage-
+> Baukastensystem gedacht.
+> Sie können aber vorgefertigte Scrpite auf Ihrer Homepage nutzen.
+> WeitereInformationen erhalten Sie auf diversen Seiten im Internet.
+>
+> Wenn wir sonst noch etwas für Sie tun können, lassen Sie es uns
+> wissen - wir
+> sind gern für Sie da.
+>
+> Mit freundlichen Grüßen
+>
+> Ihr E-Plus Team
+> -------------------------
+> bss-hq@eplus-online.de
+> E-Mail Beantwortung
+> 04.04.2001 09:45
+> Anrede         : Herr
+> Name           : Thorsten Hering
+> Handyrufnummer : 49 163 8707120
+> Account Nummer : 1171101
+> Handymodell    : Nokia 6210
+> Provider       : E-Plus Service
+> Email          : bss-hq@eplus-online.de
+> -------------------------------------Nachricht      : Grüße,
+>
+> in ihren Hilfen habe ich keinerlei
+> Hinweise darauf gefunden, wie ich
+> die von Ihnen bereitgestellten CGI-
+> Scripte (Gästebuch, Zähler etc.)
+> in meine Homepage einbaue. Ein Link
+> zur entsprechenden Hilfe oder die
+> Angabe der möglichen einzufügenden
+> HTML-Tags würden mir schon weiterhelfen.
+>
+> Vielen Dank für die Hilfe
+>
+> Thorsten Hering
+>
+>
+>
+

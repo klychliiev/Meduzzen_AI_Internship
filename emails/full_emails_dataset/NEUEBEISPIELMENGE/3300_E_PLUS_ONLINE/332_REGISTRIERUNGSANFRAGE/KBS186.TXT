@@ -1,0 +1,30 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	14.07.2001 10:02:01
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Niklas Loges
+Handyrufnummer : 49 163 2497622
+Account Nummer :
+Handymodell    : Nokia 8210
+Provider       : E-Plus Service
+Email          : Niklas.Loges@web.de
+-------------------------------------
+Nachricht      : Trotz mehrerer Versuche gelingt es mir leider nicht, mich 
+beim E-Plus-Portal anzumelden. Ich habe per 1001900 mein Paßwort 
+angefordert und verwende als Log-in-Name meine Rufnummer. Anschließend 
+bekomme ich die Meldung, daß meine Anmeldung fehlgeschlagen ist.
+
+Für Ihre mühe bedanke ich mich im voraus.
+
+Mit freundlichen Grüßen
+
+N. Loges
+-------------------------------------
+--443641932.995101321472.JavaMail.nsuser@apps2mn1--
+

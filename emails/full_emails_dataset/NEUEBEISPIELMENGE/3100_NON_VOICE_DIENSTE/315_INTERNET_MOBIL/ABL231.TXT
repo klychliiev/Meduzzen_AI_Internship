@@ -1,0 +1,30 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	31.08.2001 16:05:56
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Frau
+Name           : Andrea Laakmann
+Handyrufnummer : 49 163 2917250
+Account Nummer :
+Handymodell    : Siemens SL45
+Provider       : E-Plus Service
+Email          : andrea.laakmann@t-online.de
+-------------------------------------
+Nachricht      : Ich benötige für die Profil-Einstellung an meinem Handy 
+noch folgende Angaben:
+- Passwort
+- IP-Adresse
+- IP-Port
+
+Ich habe versucht mich bei E-plus online anzumelden, um die nötigen 
+Informationen zu erhalten. Leider fehlt mir jedoch das Service-Passwort, 
+ich habe bereits einige Male ein neues beantragt, bisher jedoch noch kein 
+neues erhalten. Bitte teilen Sie mir das neue Passwort per SMS mit. Danke.
+-------------------------------------
+--443755300.999270356204.JavaMail.nsuser@apps2mn1--
+

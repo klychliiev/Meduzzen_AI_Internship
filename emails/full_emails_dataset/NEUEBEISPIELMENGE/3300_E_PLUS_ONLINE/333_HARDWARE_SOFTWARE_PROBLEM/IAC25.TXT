@@ -1,0 +1,38 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	19.11.2001 12:36:59
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : M Schunk
+Handyrufnummer : 49 163 8768772
+Account Nummer :
+Handymodell    : SONY CMD-Z5
+Provider       : E-Plus Service
+Email          : my_schunki@web.de
+-------------------------------------
+Nachricht      : Sehr geehrte Damen und Herren,
+
+nach dem Erhalt meiner ersten Rechnung vom 31.10.2001 habe ich versucht 
+den Kundenservice online auszubrobieren. Leider halfen mir auch die FRQs 
+nicht. Meine Kundennummer lautet 5093282. Mit diesem und dem im E-Plus 
+Shop vereinbarten 5- stelligen Geheimnummer erhalte ich nur eine 
+Fehlermeldung. Bei dem Versuch, wie beschrieben, auf den Button 
+Registrierung zu klicken öffnet sich bei mir ein Fenster mit folgendem 
+Inhalt:
+Error (0x1 0x0 0x0 0x80020007):
+---------------------------------------------------------------------------
+-----
+BIND step: could not bind to {82F61D9A-A5C5-1B66-8A4B-080020ABFA93}
+Mein Browser ist der Microsoft Internet Explorer 5.5 SP2, mein Zugang 
+erfolgt über T-online-DSL-flat. Welche Ratschläge zum erfolgreichen 
+Einloggen können Sie mir jetzt noch gebenh?
+Vielen Dank für Ihre Beantwortung im Voraus. Mit freundlichen Grüßen.
+M.Schunk
+-------------------------------------
+--444071084.1006169819569.JavaMail.nsuser@apps3mn1--
+

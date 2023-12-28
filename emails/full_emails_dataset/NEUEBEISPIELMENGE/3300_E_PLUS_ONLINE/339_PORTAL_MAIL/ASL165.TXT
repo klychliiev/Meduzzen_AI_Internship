@@ -1,0 +1,33 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	08.06.2001 17:26:36
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Torsten Nisser
+Handyrufnummer : 49 163 5160654
+Account Nummer : 94575272
+Handymodell    :
+Provider       : debitel
+Email          : nickgene@gmx.de
+-------------------------------------
+Nachricht      : Ich habe heute versucht, über "Kundenservice" 
+nachträglich meine Rufnummer zur E-Mail-Benachrichtigung einzugeben. Es 
+hat (mit dem Kennwort) auch geklappt. Da aber bei eingehenden E-Mails 
+keine Nachricht erfolgte, wollte ich in den Email-Einstellungen unter 
+SMS-Notifikation mal nachsehen. Dort stand aber stets: "Ihre Portal 
+Session ist abgelaufen. Bitte melden Sie sich hier erneut an." Wenn ich 
+das versuchte und auf HIER klickte, baute sich aber immer nur die gleiche 
+Seite wieder auf.
+
+Bitte erklären Sie mir, wie ich vorgehen muß, um das gewünschte Resultat 
+zu erhalten.
+
+Vielen Dank.
+-------------------------------------
+--443521916.992017596895.JavaMail.nsuser@apps1mn1--
+

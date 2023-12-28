@@ -1,0 +1,28 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	04.12.2001 21:20:18
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Florian Grassl
+Handyrufnummer : 49 177 3313908
+Account Nummer : 5101077
+Handymodell    : Siemens S45
+Provider       : E-Plus Service
+Email          : grassl@eplus-online.de
+-------------------------------------
+Nachricht      : Sehr geehrte Damen und Herren,
+wie ist es denn möglich per GPRS und Microsoft Outlook (POP3) seine Emails 
+abzurufen. Welche speziellen Einstellungen sind im Bezug auf Microsoft 
+Outlook und das DFÜ Netzwerk nötig?
+
+Mit freundlichen Grüßen,
+
+F. Grassl
+-------------------------------------
+--12840723.1007497218889.JavaMail.nsuser@apps2mn1--
+

@@ -1,0 +1,29 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	02.07.2001 15:13:00
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Frank Jakobides
+Handyrufnummer : 49 163 5159141
+Account Nummer :
+Handymodell    : Philips Azalis 238
+Provider       : E-Plus Service
+Email          : fjakobides@addcom.de
+-------------------------------------
+Nachricht      : Wie lauten denn die wap einstellungen fuer obiges handy. 
+auf ihrer seite sind zwar daten fuer alle erhaeltlichen Handys 
+aufgelistet, leider nicht fuer das philips.
+wenn ich die daten (ip, telefonummer usw.) uebernehme, kriege ich trotzdem 
+keine verbindung zum wap portal.
+es erscheint immer die meldung: Netzwerk antwortet nicht."
+
+Vielen Dank fuer Ihre Antwort.
+Mit freundlichen Gruessen
+
+Frank Jakobides
+-------------------------------------

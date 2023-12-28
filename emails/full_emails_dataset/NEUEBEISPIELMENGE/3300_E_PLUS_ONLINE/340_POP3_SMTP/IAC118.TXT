@@ -1,0 +1,29 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	11.12.2001 21:00:33
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Mario Halfar
+Handyrufnummer : 49 177 2168903
+Account Nummer :
+Handymodell    : 8210
+Provider       : E-Plus Service
+Email          : mhalfar@eplus-online.de
+-------------------------------------
+Nachricht      : Guten Abend,
+
+senden sie mir doch bitte die nötigen Parameter um mir mit Outlook- 
+Express einen Pop3-Zugang einzurichten!
+
+Im voraus vielen Dank
+
+
+Mario Halfar
+-------------------------------------
+--13690186.1008100833446.JavaMail.nsuser@apps3mn1--
+

@@ -1,0 +1,30 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	24.08.2001 11:33:04
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : heiko lange
+Handyrufnummer : 49 177 3181156
+Account Nummer :
+Handymodell    : Siemens S35i
+Provider       : E-Plus Service
+Email          : he.iko@web.de
+-------------------------------------
+Nachricht      : sehr geehrte damen und herren,
+ich würde gern mit diesem oben genannten handy per infrarot schnittstelle 
+ins internet einwählen.das handy wurde schon als modem vom system erkannt 
+u.von mir installiert.der Laptop spricht wenn ich auf verbinden gehe das 
+handy an....
+nun meine frage welche verbindungs nummer gebe ich bein handy verbindungen 
+ins internet ein...die einwahlnr. von e-plus wird immer als nicht wählbar 
+an gegeben
+danke
+heiko lange
+-------------------------------------
+--443742211.998649184880.JavaMail.nsuser@apps1mn1--
+

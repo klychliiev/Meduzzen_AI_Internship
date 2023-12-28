@@ -1,0 +1,27 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	16.02.2001 13:04:19
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Rene Holtz
+Handyrufnummer : 49 177 9635702
+Account Nummer : nicht vorhanden ( Call by Call)
+Handymodell    : Motorola V.2288
+Provider       : E-Plus Service
+Email          : rene.holtz@eplus-online.de
+-------------------------------------
+Nachricht      : Guten Tag!
+
+Ich möchte meine EMail's per Wap abfragen ( ich habe ein Free&Esy - 
+Anschluß seit 2 Wochen), jedoch funktioniert dies bisher nicht. Wie kann 
+ich meine Mail's per Wap abrufen und welche Einstellungen sind nötig?
+
+                     MFG! Rene Holtz
+-------------------------------------
+--497876813.982325059660.JavaMail.nsuser@app01mn1--
+
