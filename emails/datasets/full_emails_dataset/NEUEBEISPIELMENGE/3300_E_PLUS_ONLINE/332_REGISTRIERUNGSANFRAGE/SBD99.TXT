@@ -1,0 +1,23 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	05.07.2001 18:34:11
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Ronald Weber
+Handyrufnummer : 49 163 2185338
+Account Nummer :
+Handymodell    : Siemens
+Provider       : E-Plus Service
+Email          : Weber1@gmx.de
+-------------------------------------
+Nachricht      : Ich möchte mich bei E_Plus Online Anmelden. Aber immer 
+wenn ich das Anmeldeformular anklicke, wird die Seite nicht aufgebaut. 
+Haben Sie da ein Serverproblem?
+-------------------------------------
+--443809304.994354451349.JavaMail.nsuser@apps2mn1--
+

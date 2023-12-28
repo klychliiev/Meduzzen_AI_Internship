@@ -1,0 +1,34 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	18.05.2001 16:35:24
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : John Leinders
+Handyrufnummer : 49 177 2296086
+Account Nummer : 1018588
+Handymodell    : Nokia 6210
+Provider       : E-Plus Service
+Email          : Leinders@eplus-online.de
+-------------------------------------
+Nachricht      : Hallo,
+wir möchten eine Homepage mit WS FTP einrichten aber das klappt nicht!
+Ich habe alles richtig eingegeben
+(Ich habe schon mal nachgefragt)
+aber der Server nimmt uns nicht an!
+Anmelden für "FTP via Browser" auf Seite: 
+http://www.eplus-online.de/NASApp/portal/admin/wizz5.jspgeht auch nicht.
+Freunde von mir versuchen das auch schon seit Tage!
+Das ist nicht meine erste Homepage darum
+bin ich fest davon überzeugt das der Fehler bei Ihnen liegt.
+So verballern wir unsere Onlinezeit!!!
+
+Gruß John Leinders
+www.JohnLeinders.de
+-------------------------------------
+--443601104.990200124751.JavaMail.nsuser@apps3mn1--
+

@@ -1,0 +1,33 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	12.07.2001 21:23:25
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Mike Hecker
+Handyrufnummer : 49 163 3235376
+Account Nummer : 1168704
+Handymodell    : Nokia 6210
+Provider       : E-Plus Service
+Email          : Mike.Hecker@eplus-online.de
+-------------------------------------
+Nachricht      : Guten Tag!
+
+Ich habe mir kürzlichen einen Palm M100 gekauft. Mit diesem Gerät kann ich 
+über die Infrarot-Schnittstelle und meinem Nokia 6210 eMails versenden und 
+WAPen. Allerdings weiß ich nicht genau, wie ich das Gerät einstellen muss 
+und welche Software dazu benötigt wird. Können Sie mir sagen, wo ich das 
+alles bekommen kann, was ich benötige und wie die Einstellungen sind?
+
+Vielen Dank für Ihre Hilfe.
+
+Mfg
+
+Mike Hecker
+-------------------------------------
+--443992517.994969405786.JavaMail.nsuser@apps2mn1--
+

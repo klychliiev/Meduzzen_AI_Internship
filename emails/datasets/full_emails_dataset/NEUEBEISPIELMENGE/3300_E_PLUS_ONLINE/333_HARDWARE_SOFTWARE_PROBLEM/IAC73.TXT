@@ -1,0 +1,181 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	03.12.2001 22:41:34
+Betreff:	Re: Antwort: Ihre Anfrage vom 28.11.2001
+
+	  
+
+
+
+Leider konnte ich immer noch keine Verbindung aufbauen.
+
+"Der Zugriff wurde verweigert, weil der Benutzername bzw. das Kennwort für
+die Domäne ungültig ist."
+
+Mein Betriebssystem ist Win2000. Daher sind einige Einträge zum DFÜ anders,
+ich habe sie möglichst nahe an Ihre Vorschläge angelehnt. Eine Abweichung
+ergibt sich daraus, dass ich als Modem PPP over ISDN angebe.
+
+Bitte teilen Sie mir mit, was für andere Einstellmöglichkeiten es gibt.
+
+Mit freundlichen Grüssen
+MCFalter
+KNr 4643466
+
+
+Here is what you wrote at 29.11.2001:
+ >Sehr geehrte Frau Falter,
+ >
+ >vielen Dank für Ihre Nachricht.
+ >
+ >Wie bereits telefonisch besprochen senden wir Ihnen die manuellen
+ >Einstellungsmöglichkeiten der Nutzung von E-Plus Online:
+ >
+ >Schritt1:
+ >Doppelklicken Sie das Symbol "Arbeitsplatz".
+ >Doppelklicken Sie auf DFÜ-Netzwerk. Sollte dieser Ordner bei Ihnen
+ >nicht vorhanden sein ist es notwendig, daß Sie das DFÜ-Netzwerk von Ihrer
+ >Original Windows 95/98-CD nachinstallieren. Wie das funktioniert,
+entnehmen Sie
+ >bitte der Anleitung Ihres Betriebssystems.
+ >Doppelklicken Sie auf "Neue Verbindung" erstellen.
+ >
+ >Schritt 2:
+ >Geben Sie den Namen der neuen Internetverbindung ein (E-Plus Online).
+ >Wählen Sie ein Modem oder ISDN-Karte.
+ >Klicken Sie auf den Weiter "Button".
+ >
+ >Schritt 3:
+ >Geben Sie die Rufnummer 01088 0 19 21 92 von E-Plus Online ein.
+ >Klicken Sie auf "Weiter" und dann auf "Fertigstellen". Im DFÜ-Netzwerk 
+ist
+ >nun ein neues Symbol eingerichtet worden.
+ >
+ >Schritt 4:
+ >Klicken Sie mit der rechten Maustaste auf das Symbol E-Plus Online.
+ >Wählen sie den Unterpunkt "Eigenschaften".
+ >Klicken Sie auf die Kategorie "Servertypen".
+ >Aktivieren Sie nur das Kästchen TCP / IP.
+ >Bestätigen Sie mit O.K..
+ >
+ >Schritt 5:
+ >Doppelklicken Sie auf das Symbol "E-Plus Online".
+ >Tragen Sie als Benutzername martina.falter@eplus-online.de ein.
+ >Tragen Sie als Kennwort Ihr Kennwort ein. (Falls Sie es nicht mehr 
+besitzen,
+ >wählen Sie bitte die Nummer 0177-1000).
+ >Klicken Sie auf "Verbinden". Wurde die Verbindung erfolgreich aufgebaut,
+ >erscheint unten rechts auf Ihrem Bildschirm ein Verbindungssymbol (2 
+PCs).
+ >Wenn Sie die Verbindung später wieder trennen möchten, dann klicken Sie
+ >mit der rechten Maustaste auf dieses Symbol und wählen dann die Option
+ >Trennen.
+ >
+ >Gern haben wir Ihre Verbindung für Sie mit den o. g. Einstellungen
+getestet und
+ >konn-ten dabei keine Fehler feststellen.
+ >
+ >Wir wünschen Ihnen viel Spaß mit unserem E-Plus Online Zugang.
+ >
+ >Mit freundlichen Grüßen
+ >
+ >Ihr E-Plus Team
+ >
+ >PS: Sie mögen es kurz und bündig und möglichst auch noch automatisch?
+ >Dann abonnieren Sie doch einfach SMS-Infodienste von E-Plus. Im November
+ >ist unser Reisedienst für Sie kostenfrei. Schreiben Sie eine SMS mit der
+ >Botschaft "+Reise" an die 1001. Schon bald könnten Sie wissen, wohin die
+Reise
+ >geht.
+ >
+ >---------------------------- Original Message 
+------------------------------
+ >MCF <mcf_travel@yahoo.com>
+ >KUNDENSERVICE@EPLUS
+ >Re: Antwort: Registrierungsanfrage
+ >29.11.2001 01:53
+ >Funktioniert nicht. Weitere Vorschläge Ihrerseits?
+ >
+ >Here is what you wrote at 28.11.2001:
+ >>Sehr geehrte Frau Falter
+ >
+ >>
+ >>vielen Dank für Ihre Nachricht.
+ >>
+ >>Bitte beachten Sie
+ >daß Sie als Benutzer(inen)name nur martina.falter
+ >eingeben.
+ >>Alle anderen genannten Einstellungen sind korrekt.
+ >>
+ >>Wenn wir sonst noch etwas für Sie tun können
+ >lassen Sie es uns wissen - wir
+ >>sind
+ >>gern für Sie da.
+ >>
+ >>Mit freundlichen Grüßen
+ >>
+ >>Ihr E-Plus Team
+ >>
+ >>PS: Wohin mit dem Resturlaub oder besser wohin im Resturlaub? Schauen 
+Sie
+ >>doch mal auf Ihr Handy
+ >aber natürlich erst
+ >nachdem Sie den E-Plus
+ >Infodienst
+ >>"Reise" ab-onniert haben. Das geht ganz einfach: Sie schreiben eine
+ >>SMS mit der Botschaft "+Reise" an die 1001. Automatisch erhalten Sie
+ >>Informationen aus der Welt des Reisens
+ >im November sogar kostenfrei.
+ >>
+ >>---------------------------- Original Message 
+------------------------------
+ >>MCF <mcf_travel@yahoo.com>
+ >>KUNDENSERVICE@EPLUS
+ >>Zugang Internet
+ >>28.11.2001 13:02
+ >>Sehr geehrte Damen und Herren
+ >>
+ >>
+ >>vielen Dank für Ihre Unterstützung bei der Registrierung. Es ist mir
+ >>inzwischen gelungen
+ >>mich einzuloggen und eine email zu lesen. Dafür
+ >>benutzte ich allerdings einen anderen ISP.
+ >>
+ >>Gerne würde ich auch den Internetzugang über e-plus nutzen. Dazu habe 
+ich
+ >>mein DFÜ so konfiguriert
+ >>dass mein Benutzerinnenname:
+ >>martina.falter@eplus.de und mein Kennwort angegeben werden
+ >>wenn
+ >>01088 01920192 gerufen wird (ich habe es alternativ mit Kennwort oder 
+PIN
+ >>und auch ohne die 01088 versucht). Dabei war ich nicht erfolgreich. 
+Bitte
+ >>teilen Sie mir mit
+ >>welche Einstellungen ich ausser denen auf ihrer website
+ >>vorgeschlagenen versuchen soll.
+ >>
+ >>Mit freundlichen Grüßen
+ >>
+ >>MCFalter
+ >>KNr 4643466
+ >>
+ >>
+ >>_________________________________________________________
+ >>Do You Yahoo!?
+ >>Get your free @yahoo.com address at http://mail.yahoo.com
+ >>
+ >>
+ >
+ >
+ >_________________________________________________________
+ >Do You Yahoo!?
+ >Get your free @yahoo.com address at http://mail.yahoo.com
+ >
+ >
+
+
+_________________________________________________________
+Do You Yahoo!?
+Get your free @yahoo.com address at http://mail.yahoo.com
+

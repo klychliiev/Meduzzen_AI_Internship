@@ -1,0 +1,29 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	23.08.2001 06:53:39
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Cordt Flörke
+Handyrufnummer : 49 163 3563753
+Account Nummer :
+Handymodell    :
+Provider       : E-Plus Service
+Email          : cordtf@web.de
+-------------------------------------
+Nachricht      : Zur Information: in Ihren Nutzungsbedingungen ist ein 
+nicht unerheblicher Rechtschreibfehler:
+
+Der Abschluß des Nutzungsbedingungen endet mit beiden folgenden 
+Radio-Buttons, bei denen der "Nein"-Button falsch formuliert ist:
+
+ Ja, ich bin einverstanden.
+
+ Nein, ich bin einverstanden.
+-------------------------------------
+--443429071.998546019041.JavaMail.nsuser@apps3mn1--
+

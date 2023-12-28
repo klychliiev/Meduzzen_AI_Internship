@@ -1,0 +1,42 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	06.12.2001 03:12:47
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Andreas Metzger
+Handyrufnummer : 49 177 2157033
+Account Nummer : 23120
+Handymodell    : Ericsson T39m
+Provider       : E-Plus Service
+Email          : Andreas.Metzger@gmx.net
+-------------------------------------
+Nachricht      : WAP geht denn nu?
+
+Ich habe nun seit einigen Tagen das neue Ericsson T39m und versuche seidem 
+vergeblich via GRPS und WAP ins Internet zu gelangen.
+
+Leider scheinen mir dazu einige Parameter zu fehlen, die ich auch bisher 
+im Internet nicht gefunden habe.
+
+Welche Werte muß ich wo eintragen, um GPRS nutzen zu können?
+Welche Werte muß ich wo eintragen, um aus dem Menü Nachrichten heraus 
+e-Mails verschicken zu können?
+
+
+Für Ihre Mühe schon jetzt VIELEN DANK
+
+
+
+
+
+AndreasMetzger
+(AM270670@aol.com)
+(Andreas.Metzger@gmx.net)
+-------------------------------------
+--32159383.1007604767714.JavaMail.nsuser@apps1mn1--
+

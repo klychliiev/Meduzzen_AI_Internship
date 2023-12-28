@@ -1,0 +1,130 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	28.11.2001 14:27:44
+Betreff:	Re: Antwort: T39m Einstellungen  [Virus checked]
+
+	  
+
+
+
+Vielen Dank für Ihre prompte, kompetente und kompakte Antwort! Ich
+freue mich auf die Konfiguration und hoffe, daß meine Probleme behoben
+werden. So kann man ein Unternehmen weiter empfehlen!!
+
+----- Originalnachricht -----
+Von: kundenservice@eplus.de
+Datum: Mittwoch, 28. November  2001, 12:04
+Betreff: Antwort: T39m Einstellungen
+
+> Sehr geehrter Herr Gutierrez,
+>
+> bitte nehmen Sie an Ihrem Telefon folgende Einstellungen vor:
+>
+> GSM-WAP
+>
+> Name      E-Plus GSM
+>
+> Rufnummer +49177123999
+>
+> Benutzername   eplus
+>
+> Kennwort  wap
+>
+>
+> GPRS-WAP
+>
+> Name      E-Plus GPRS
+>
+> APN       internet.eplus.de
+>
+> Benutzername   eplus
+>
+> Kennwort  wap
+>
+>
+> E-Mail Einstellungen
+>
+> Kontoname Geben Sie einen Namen für das Konto ein, z.B. EOL, Büro
+>          o.ä.
+>
+> Verbinden Liste bereits definierter Datenkonten für Verbindungen
+>     mit       wird angezeigt
+>
+> POP3-Server    muß als IP-Adresse eingegeben werden, für EOL
+> 212.23.97.2POP3-Port
+>
+> Mailbox        Geben Sie hier den Benutzernamen Ihres E-Mail-Kontos
+>          ein.
+> Kennwort  Geben Sie hier das Passwort Ihres E-Mail-Kontos ein.
+>
+> SMTP-Server    muß als IP-Adresse eingegeben werden, für EOL
+> 212.23.97.2SMTP-Port
+>
+> EMail-Adresse  Geben Sie hier die E-Mail-Adresse dieses Kontos ein.
+>
+> Absender  Geben Sie hier optional eine beliebige E-Mail-Adresse als
+>          Absender an.
+>
+> Signatur       Wählen Sie keine Signatur oder VKarte verwenden
+>    (falls
+> Visitenkarte hinterlegt).
+>
+> Abgeh.         Wählen Sie Aus oder Ein (versendet von jeder
+> verschicktenkopieren            Mail eine Kopie an eine beliebige
+> E-Mail-Adresse).
+>
+> Abrufintervall     Wählen Sie Aus, 5 Min., 30 Min. oder 60 Min.
+>
+> Wenn wir sonst noch etwas für Sie tun können, lassen Sie es uns
+> wissen - wir
+> sind gern für Sie da.
+>
+> Mit freundlichen Grüßen
+>
+> Ihr E-Plus Team
+>
+> PS: Sie mögen es kurz und bündig und möglichst auch noch automatisch?
+> Dann abonnieren Sie doch einfach SMS-Infodienste von E-Plus. Im
+> Novemberist unser Reisedienst für Sie kostenfrei. Schreiben Sie
+> eine SMS mit der Bot-
+> schaft "+Reise" an die 1001. Schon bald könnten Sie wissen, wohin
+> die Reise
+> geht.
+>
+> ---------------------------- Original Message ---------------------
+> ---------
+> josejavierg@eplus-online.de
+> KUNDENSERVICE@EPLUS
+> E-Mail Beantwortung
+> 27.11.2001 22:24
+> Anrede         : Herr
+> Name           : Dr. José Javier García Gutiérrez
+> Handyrufnummer : 49 163 3087297
+> Account Nummer : weiss ich nicht
+> Handymodell    : ericsson t39m
+> Provider       : E-Plus Service
+> Email          : josejavierg@eplus-online.de
+> -------------------------------------Nachricht      : Sehr geehrte
+> Damen und
+> Herre
+>
+> Ich blicke leider nicht mehr durch! Ich kann das über Ihren
+> Geschäftskunden-Vertrieb gekauften ericsson t39m nicht richtig den
+> WAP- und den
+> email-Zugang konfigurieren. Auf den Ericsson-Pages ist auch keine
+> Hilfe zu
+> finden. Und mit den Daten die ich von Ihnen bekommen habe
+> komme ich nicht
+> weiter... Ich hoffe
+> daß Sie mir weiterhelfen  können
+> denn sonst ist es
+> hoffnungslos... Ich verbleibe mit freundlichen Grüßen
+> José-Javier García
+> ---------------------------------------
+> 15004798.1006895846700.JavaMail.nsuser@apps1mn1--
+>
+>
+>
+>
+>
+ - josejavierg.vcf

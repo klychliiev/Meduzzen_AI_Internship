@@ -1,0 +1,42 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	10.12.2001 14:19:47
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Frau
+Name           : Elke Schulze
+Handyrufnummer : 49 163 4457182
+Account Nummer :
+Handymodell    : Nokia 6150
+Provider       : E-Plus Service
+Email          : e-hagen@web.de
+-------------------------------------
+Nachricht      : Hallo, ich habe eine Guthabenkarte von E-Plus. Als ich 
+mein Handy einmal ausgestellt hatte, bekam meinSohn dieses in seine 
+Finger. Er schaltete es ein und wollte ein Spiel spielen. Beim Versuch die 
+geforderte Pin einzugeben ist er jedoch gescheitert.
+Folge: Meine SIM-Karte ist nun gesperrt. Leider kann ich meinen Zettel mit 
+der PUK nicht finden.
+Auf der SIM-Karte ist folgende
+Nr.:19-056-327121-3 W
+und in der folgenden Zeile die
+Nr:16k 3V HL R:58
+
+Können Sie mir die PUK zusenden.
+Meine Postanschrift hat sich nicht geändert.
+Sie lautet
+Elke Schulze
+Strander Straße 19
+24229 Dänischenhagen
+
+Vielen Dank für Ihre Bemühungen.
+
+Mit freundlichem Gruß
+E. Schulze
+-------------------------------------
+--12465058.1007990387118.JavaMail.nsuser@apps2mn1--
+

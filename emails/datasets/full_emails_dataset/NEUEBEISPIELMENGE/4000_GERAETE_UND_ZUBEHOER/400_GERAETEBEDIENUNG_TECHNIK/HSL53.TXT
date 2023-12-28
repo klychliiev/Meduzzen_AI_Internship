@@ -1,0 +1,47 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	04.12.2001 14:59:23
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Dipl. Ing. Heiko Volz
+Handyrufnummer : 49 177 3721394
+Account Nummer :
+Handymodell    : ericsson T39m
+Provider       : E-Plus Service
+Email          : heikovolz@nautiks.de
+-------------------------------------
+Nachricht      : Sehr geehrte Damen und Herren,
+
+ich besitze ein Ericsson T39m von E-Plus.
+Ich habe die zugehörige Software auf meinem Notebook (HP - Omnibook XE3, 
+mit Windows 98 SE) installiert und versuche nun eine Infrarotverbindung 
+mit dem Notebook aufzunehmen.
+Bei im Handy aktivierter Infrarotschnittstelle lege ich das Handy in 
+Reichweite des Notebooks. Das Infrarot-Programm des Notebooks zeigt dann 
+sofort eine erfolgreiche Kontaktaufnahme an und erkennt das Handy - 
+Soweit, so gut.
+Nach ca. 3 Sekunden bricht die Verbindung ab.
+Ca. 1 Minute später baut sich die Verbindung wieder auf - jedoch wieder 
+nur für ca. 3 Sekunden.
+Das Symptom ist das selbe, egal ob ich am Handy die Infrarotschnittstelle 
+auf Dauer oder nur für 10 Minuten aktiviere.
+An der Notebook-Konfiguration kann es eigentlich nicht liegen, da die 
+Kontaktaufnahme mit meinem alten Handy (Ericsson SH888) problemlos 
+funktioniert.
+
+Können Sie mir beantworten, was ich falsch mache? Oder ist das Gerät 
+kaputt?
+
+Bitte antworten Sie mir per E-Mail, da ich derzeit im Ausland bin und per 
+E-Mail am Besten zu erreichen bin.
+
+MfG,
+Heiko Volz
+-------------------------------------
+--14366013.1007474363535.JavaMail.nsuser@apps1mn1--
+

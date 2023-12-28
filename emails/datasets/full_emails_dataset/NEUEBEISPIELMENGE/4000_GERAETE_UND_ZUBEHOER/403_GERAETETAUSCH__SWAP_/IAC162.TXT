@@ -1,0 +1,33 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	01.02.2001 13:28:01
+Betreff:	E-Mail Beantwortung  [Virus checked]
+
+	  
+
+
+--497958847.981030481727.JavaMail.nsuser@app01mn1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=ISO-8859-1
+
+Anrede         : Herr
+Name           : Oliver Scholtz
+Handyrufnummer : 49 163 2879287
+Account Nummer :=20
+Handymodell    : Nokia 8810
+Provider       : E-Plus Service
+Email          : oliver.scholtz@barmenia.de
+-------------------------------------
+Nachricht      : Ich habe heute den ersten Tag mein neues E-Plus Handy. W=
+=E4hrend ich snake spielte, erschien auf dem Men=FC SIM-Karte nicht 
+angenom=
+men.
+
+Diese Nachricht erscheint nun weiterhin, auch nach Neustart und Eingabe 
+der=
+ PIN.=20
+
+Ich bitte um schnelle Hilfe!
+-------------------------------------
+--497958847.981030481727.JavaMail.nsuser@app01mn1--
+

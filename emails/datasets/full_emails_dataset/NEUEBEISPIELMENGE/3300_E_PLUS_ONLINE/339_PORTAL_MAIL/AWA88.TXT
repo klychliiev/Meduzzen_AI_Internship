@@ -1,0 +1,28 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	02.12.2001 11:55:38
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : wolfgang müller
+Handyrufnummer : 49 177 8934861
+Account Nummer : 1022378
+Handymodell    : 8210
+Provider       : E-Plus Service
+Email          : wolfgang.mueller@eplus-online.de
+-------------------------------------
+Nachricht      : Guten Tag!
+Ich versuche seit gestern online meine eMails anzusehen.... Geht nicht ! 
+Es wird immer die Standardfehlerseite des Internet Explorers angezeigt... 
+"SEITE nicht gefunden"!
+Immer jeweils nach Eingabe des Benutzernamens und der Kennung! Nachdem ich 
+"GO" drücke!
+Das gleiche geschieht bei der online kundenbetreuung...
+ MFG müller
+-------------------------------------
+--7104703.1007290538366.JavaMail.nsuser@apps2mn1--
+

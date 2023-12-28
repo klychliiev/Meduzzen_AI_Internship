@@ -1,0 +1,32 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	20.08.2001 09:10:27
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Thilo A. Coblenzer
+Handyrufnummer : 49 163 8445622
+Account Nummer : 1232043
+Handymodell    : Sony CMD-Z5
+Provider       : E-Plus Service
+Email          : post@coblenzer.de
+-------------------------------------
+Nachricht      : Guten Tag!
+Leider habe ich vergessen mit bei der Registrierung den Pop3-/SMTP-Server 
+sowie die passenden Benutzernamen aufzuschreiben. Also meinen 
+Benutzernamen/Kennwort kenne ich schon, ich benötige lediglich die Angaben 
+zu den eMail-Servern. In Ihrer "Hilfe" konnte ich diese Angaben leider 
+auch nicht finde
+n.
+Ich wäre Ihnen dankbar, wenn Sie mir diese Angaben per eMail zuschicken 
+könnten!
+
+MfG
+  Thil A. Coblenzer
+-------------------------------------
+--443719789.998295027118.JavaMail.nsuser@apps1mn1--
+

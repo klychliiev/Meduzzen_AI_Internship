@@ -1,0 +1,23 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	04.12.2001 13:36:57
+Betreff:	Sicherheitscode für PT11
+
+	  
+
+
+
+Sehr geehrte Damen und Herren,
+
+ich möchte mein altes bei e-plus beschafftes PT11 reaktivieren. Nach
+Einlegen einer Provider-Karte (Telepassport) fordert das Gerät
+hardwaremässig den Gerätesicherheitscode. Die komplette Dokumentation zu 
+dem
+Gerät existiert leider nicht mehr. Gibt es eine Möglichkeit das Gerät 
+wieder
+zu nutzen ?
+Geräte ID: NHK-1EA
+Code:       0500206
+
+
+

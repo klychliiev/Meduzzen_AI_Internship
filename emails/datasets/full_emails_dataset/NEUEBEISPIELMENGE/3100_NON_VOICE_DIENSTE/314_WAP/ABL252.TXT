@@ -1,0 +1,29 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	29.07.2001 11:12:01
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Frau
+Name           : Anika Horn
+Handyrufnummer : 49 177 2304670
+Account Nummer :
+Handymodell    : Nokia 3330
+Provider       : E-Plus Service
+Email          : anika-mail@gmx.net
+-------------------------------------
+Nachricht      : Ich möchte gern die WAP Funktion meines Handys nutzen. 
+Aber wenn ich eine Verbindung herstellen möchte kommt die Fehlermeldung : 
+"Diensteinstellungen prüfen". Jetzt hab ich in der Gebrauchsanleitung 
+gelesen, dass man sich die Zugangsdaten vom Netzanbieter per SMS zusenden 
+lassen kann. Wo kann ich diese Zugangsdaten anfordern? Ist e-plus WAP nur 
+mit einem Vertragsabschluss möglich?
+
+MFG
+      Anika Horn
+-------------------------------------
+--443486773.996401521734.JavaMail.nsuser@apps2mn1--
+

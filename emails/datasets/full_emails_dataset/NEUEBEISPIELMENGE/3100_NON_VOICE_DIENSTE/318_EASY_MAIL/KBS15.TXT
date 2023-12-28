@@ -1,0 +1,125 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	26.01.2001 14:01:52
+Betreff:	E-Plus Service: Easy Mail  [Virus checked]
+
+	  
+
+
+Sehr geehrte Damen und Herren,
+
+vielen Dank für die prompte Beantwortung meiner Frage.
+Wie kann ich denn aber auch D1 oder D2 Kunden erreichen? Dieses ist so 
+scheinbar
+über Easy-mail nicht möglich!
+
+Falls dafür (überschaubare) Kosten anfallen, soll das nicht das 
+Grundlegende
+Problem sein.
+
+Mit freundlichen Grüßen
+
+ GETRÄNKE UNION
+  GmbH & Co KG
+Michael Nehrmann
+
+
+
+kundenservice@eplus.de schrieb:
+Sehr geehrter Herr Nehrmann,
+
+vielen Dank für Ihre Nachricht.
+
+Sollen Kurznachrichten z. B. vom Büro aus versendet werden, so können 
+diese mit
+EasyMail von jedem Computer mit Modemanschluß oder von jedem datenfähigen 
+Handy
+mit Notebook und entsprechendem Zubehör verschickt werden. Mit der neuen 
+Version
+2.3 geht das neben der Versendung über analoge Modemzugänge mit bis zu 56 
+kbit/s
+nun sogar mit Ihrem ISDN-Anschluss.
+
+Ein echter Fortschritt:
+Komfortables Eingeben, Speichern und Laden von Adressaten und Nachrichten 
+über
+die Tastatur.
+Eine Nachricht kann bis zu 480 Zeichen lang sein und wird in drei einzelnen
+Mails zu jeweils 160 Zeichen versendet.
+Gleichzeitiges Versenden einer Nachricht an mehrere E-Plus
+Teilnehmer(Gruppenbildung).
+EasyMails können per Terminruf so programmiert werden, daß die Versendung 
+zu
+einem bestimmten Zeitpunkt an den Empfänger erfolgt. (Senden Sie Ihre 
+Nachricht
+an das Short Message Service Center von E-Plus, das Ihre Mail dann 
+termingerecht
+weiterleitet - so wird Ihre Mail zugestellt, ohne daß Sie überhaupt an 
+Ihrem PC
+sind)
+NEU: Schnellere Gruppenversendung auch über den analogen Modemzugang
+NEU: Zeitdefinieren von Nachrichten (bei angegebenen Terminen verlieren
+Nachrichten ihre Gültigkeit, d. h., wenn der Empfänger bis zum Termin sein 
+Handy
+nicht eingeschaltet hat, wird die Nachricht ungültig und nicht mehr
+ausgeliefert. ("Nicht-getimete" Nachrichten werden natürlich auch dann noch
+ausgeliefert, wenn der Empfänger sein Handy zur Sendezeit abgeschaltet 
+hatte.)
+
+Darüber hinaus verfügt das Programm über weitere praktische Funktionen:
+Wahlwiederholung
+Integriertes Telefonbuch mit erweiterter Speicherfunktion
+Vorbereitete Textbausteine
+Logbuch
+Statusabfrage für Einzelnachrichten
+Umfangreiche Hilfe
+
+Ein kostenloser Download ist unter www.eplus.de möglich.
+
+Tarifierung:
+Hierbei wird nicht die einzelne Kurznachricht tarifiert, sondern es gilt 
+die
+Verbindungsdauer während der Übertragung zum Modempool 0177-1167 der
+Kurznachrichtenzentrale. Für die Versendung vom PC/Modem über das 
+Telefonnetz
+der Deutschen Telekom gilt der Telekomtarif mit DM 1,45/HZ, DM 0,60/NZ
+(Änderungen vorbehalten) und für die Versendung vom Laptop/PCMCIA-Card mit
+mobiler Datenübertragung innerhalb des E-Plus Netzes der E-Plus Profitarif 
+mit
+DM 1,19/HZ, DM 0,49/NZ. Je mehr Teilnehmer pro Verbindung adressiert 
+werden,
+desto günstiger wird der Preis pro Kurznachricht.
+
+Wenn wir sonst noch etwas für Sie tun können, lassen Sie es uns wissen - 
+wir
+sind gern für Sie da.
+
+Da Ihre Anfrage und diese Antwort durch uns nicht gespeichert werden, 
+bitten wir
+Sie, bei eventuellen Rückfragen immer den vollständigen Schriftwechsel
+mitzusenden.
+
+Mit freundlichen Grüßen
+
+Ihr E-Plus Team
+
+Getraenke-Union@t-online.de
+E-Mail Beantwortung  [Virus checked]
+25.01.2001 13:43
+Anrede         : Herr
+Name           : Michael Nehrmann
+Handyrufnummer : 49 163 6464620
+Account Nummer :
+Handymodell    :
+Provider       : E-Plus Service
+Email          : Getraenke-Union@t-online.de
+-------------------------------------
+Nachricht      : Ich möchte gerne eine Verteilerliste (unbegrenzt) für SMS
+erstellen, denen ich per PC übers Internet eine SMS aufs Handy senden 
+kann, für
+E-Plus Kunden& falls möglich auch für D1 oder D2 Kunden.
+
+Wie kann ich das umsetzen?-------------------------------------
+
+
+

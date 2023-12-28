@@ -1,0 +1,28 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	04.12.2001 00:45:42
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Frau
+Name           : Axel Schulz
+Handyrufnummer : 49 177 2728301
+Account Nummer :
+Handymodell    : Siemens S45
+Provider       : E-Plus Service
+Email          : axel.schulz@noheadx.de
+-------------------------------------
+Nachricht      : Guten Tag,
+
+mich würde interessieren, welche Angaben für die Provideradresse, 
+Benutzernamen und Login bei den GPRS-Daten zu machen sind, um den 
+GPRS-Dienst zu nutzen.
+
+mit freundlichem Gruß,
+Axel Schulz
+-------------------------------------
+--16978156.1007423142581.JavaMail.nsuser@apps1mn1--
+

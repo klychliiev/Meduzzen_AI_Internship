@@ -1,0 +1,31 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	05.11.2001 10:02:47
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : andré lauterbach
+Handyrufnummer : 49 163 3419984
+Account Nummer :
+Handymodell    :
+Provider       : E-Plus Service
+Email          : al@sas-sports.de
+-------------------------------------
+Nachricht      : S.g. Damen und Herren,
+
+ab wann ist denn wieder mit der Funktion des Email-Portals zu rechnen ?
+
+Sollte das noch längere Zeit ausser Funktion sein, gibt es eine andere 
+Möglichkeit die sich stapelnden Emails einzusehen. POP3 funktioniert ja 
+auch nicht.
+
+Danke für eine Antwort.
+
+André Lauterbach
+-------------------------------------
+--444170988.1004950967090.JavaMail.nsuser@apps1mn1--
+

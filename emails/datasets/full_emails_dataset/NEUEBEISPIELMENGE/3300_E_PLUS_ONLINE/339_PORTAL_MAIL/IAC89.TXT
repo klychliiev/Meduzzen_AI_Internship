@@ -1,0 +1,19 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	13.11.2001 12:00:42
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Mike Hornemann
+Handyrufnummer : 49 177 2487148
+Account Nummer :
+Handymodell    : Nokia 8210
+Provider       : E-Plus Service
+Email          : kappa@bigfoot.de
+-------------------------------------
+Nachricht      : Die SMS-Notification funktioniert nicht
+-------------------------------------

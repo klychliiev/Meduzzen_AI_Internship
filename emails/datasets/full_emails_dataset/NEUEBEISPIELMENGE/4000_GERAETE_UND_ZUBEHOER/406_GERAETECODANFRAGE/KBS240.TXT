@@ -1,0 +1,38 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	11.03.2001 12:32:33
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Steven Hoepelman
+Handyrufnummer : 49
+Account Nummer :
+Handymodell    :
+Provider       :
+Email          : red.pepper@unicum.de
+-------------------------------------
+Nachricht      : Hallo E-Plus team,
+
+Ich habe vor einiger Zeit ein gebrauchtes E-Plushandy bekommen. Es handelt 
+sich um das Model Motorola DCS Flare (es sieht dem DCS Surf ähnlich).
+
+Wenn ich das Gerät einschalte erscheint auf dem Display, nachdem ich den 
+pin eingegeben habe "warten, um Spezialcode einzugeben."
+
+Dabei handelt es sich nicht um den puk.
+Ihre Hotline sagte mir ich solle ihnen den Gerätecode schriftlich 
+mitteilen und sie könnten mir diesen Spezialcode ausrechnen.
+
+Der Code lautet
+443441401305320
+
+Mfg
+
+Steven
+-------------------------------------
+--497965710.984310353621.JavaMail.nsuser@app01mn1--
+

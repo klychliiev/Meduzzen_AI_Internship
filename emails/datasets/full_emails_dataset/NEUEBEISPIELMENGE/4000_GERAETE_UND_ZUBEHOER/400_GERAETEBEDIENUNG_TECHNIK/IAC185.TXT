@@ -1,0 +1,33 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	03.06.2001 08:56:47
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Martin Wittemann
+Handyrufnummer : 49 177 2445758
+Account Nummer :
+Handymodell    : Siemens S35i
+Provider       : E-Plus Service
+Email          : webmaster@futurama-center.de
+-------------------------------------
+Nachricht      : Hallo ,
+ich hätte eine frage zu meinem S35i . Wenn ich im menue Meldungen(3) zu 
+einstellungungen(5) gehe , gibt es dort eine auswahlmöglichkeit die Status 
+Report(4) heißt . Wenn ich diese aktiviert habe passiert bei mir beim 
+versenden von SMS gar nichts . Meine Freundin hat ein 6210 auch im eplus 
+netzt und die bekommt dann , wenn sie status report einschaltet eine info 
+wann sie die SMS weg geschickt hat und wann sie der enpfänger erhalten hat 
+. Hierzu hätte ich ein paar fragen , sind diese infos kostenflichtig und 
+warum funktioniert das bei mir nicht ? Hat das irgendwas mit dem CB 
+Dienste zu tun ? Im CB-Dienste menü hab ich nämlich das feld CB-Empfangen 
+ein .
+
+MFG Martin
+-------------------------------------
+--444583311.991555007306.JavaMail.nsuser@apps1mn1--
+

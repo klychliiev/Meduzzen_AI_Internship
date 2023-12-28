@@ -1,0 +1,27 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	10.05.2001 13:45:07
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Ulrich Franke
+Handyrufnummer : 49 177 2137335
+Account Nummer :
+Handymodell    : Nokia 6210
+Provider       : E-Plus Service
+Email          : ulrich@wumpy.de
+-------------------------------------
+Nachricht      : Wenn ich nach dem Login in das e-plus Portal auf den Link 
+"Homepage bearbeiten" klicke, dann erscheint eine neue Seite mit der 
+Fehlermeldung "500 Internal Server Error". Das Problem habe ich bereits, 
+seitdem ich mich angemeldet habe. Ich arbeite privat und beruflich unter 
+Windows 2000 mit dem IE5. Können Sie mir helfen?
+
+U. Franke
+-------------------------------------
+--444164983.989498707468.JavaMail.nsuser@apps2mn1--
+

@@ -1,0 +1,24 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	30.01.2001 13:51:18
+Betreff:	Homepage  [Virus checked]
+
+	  
+
+
+Sehr geehrte Damen und Herren,
+
+leider scheint eine Veröffentlichung meiner erstellten Homepage nicht zu
+funktionieren, weder mit meinem alten Programm, welches bei einem
+anderen Provider problemlos funktioniert, noch mit WS_FTP. Ich erhalte
+ständig den Fehler "failed port" und danach "!send error:connection
+reset" und "!receive error: connection reset". Zum schluss kommt dann
+die Meldung "!Failed"Port".!Retieve of folder listing failed (0) !Error
+occured during transfer".
+Vielleicht können Sie mir ja weiterhelfen.
+Mit freundlichen Grüssen
+
+Achim Braiger
+
+
+

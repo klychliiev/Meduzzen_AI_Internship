@@ -1,0 +1,50 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	01.11.2001 11:26:55
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Dan Racek
+Handyrufnummer : 49 163 8800090
+Account Nummer :
+Handymodell    : Nokia 9210
+Provider       : E-Plus Service
+Email          : jorune@web.de
+-------------------------------------
+Nachricht      : Ich bin ganz neuer ePlus Kunde und habe es bis jetzt 
+nicht geschafft, mich zu ePlus Online anzumelden. Da ich wie Sie gelesen 
+haben ein Nokia 9210 besitze, ist dies mehr als fustrierend :-(
+
+Ich habe mehrere Fragen mir der dringenden Bitte um Antwort :-)
+
+* Seit gestern abend ist es überhaupt nicht mehr möglich, auf die 
+Anmeldeseite zu kommen - weder zu Hause noch in der Firma
+Ich erhalte die Meldung
+
+
+Error (0x1 0x0 0x0 0x80020007):
+------------------------------------------------------------------------
+BIND step: could not bind to {82F61D9A-A5C5-1B66-8A4B-080020ABFA93}
+
+Mein fehler?
+
+* Mit meiner telefonisch von Ihnen durchgegebenen 7-stelligen Kundennummer 
+war es mir nach wie vor nicht möglich, mich anzumelden - ich wurde nicht 
+als ePlus Kunde erkannt. Das Web-Frontend scheint auf eine 8-stellige 
+Kunden/Servicenummer zu warten - eine solche habe ich aber noch nicht.
+
+Muss ich auf Post von Ihnen warten, die eine Servicenummer enthält - und 
+falls ja: Warum sagt einem das keiner? ;-) Als neuer, begeisterter ePluser 
+wil ich natürlich auch gleich das Webportal nutzen - nur floppt das leider 
+bisher.
+
+Auf ihre schnelle antwort freut sich:
+
+Dan H. Racek
+-------------------------------------
+--443992924.1004610415124.JavaMail.nsuser@apps1mn1--
+

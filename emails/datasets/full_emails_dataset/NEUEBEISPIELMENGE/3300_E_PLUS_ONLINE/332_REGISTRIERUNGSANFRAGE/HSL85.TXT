@@ -1,0 +1,27 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	03.12.2001 13:43:48
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Pierre Quaas
+Handyrufnummer : 49 177 8408910
+Account Nummer : 2119763
+Handymodell    :
+Provider       : E-Plus Service
+Email          : zpierrez@web.de
+-------------------------------------
+Nachricht      : hallo e-plus,
+
+ich habe jetzt schon mehrmals versucht auf mein e-mail-konto zuzugreifen, 
+ich komme aber nicht rein. mein log-in ist "zpierrez". natuerlich ist es 
+moeglich, dass ich den falschen pin verwende. das halte ich aber fuer sehr 
+unwahrscheinlich.
+koennt ihr mir helfen?
+
+mfg pierre quaas
+-------------------------------------

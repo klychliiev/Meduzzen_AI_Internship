@@ -1,0 +1,34 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	16.11.2001 19:31:52
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Bernd Gagel
+Handyrufnummer : 49 163 4243523
+Account Nummer : 1223015
+Handymodell    :
+Provider       : E-Plus Service
+Email          : bergagel@debitel.net
+-------------------------------------
+Nachricht      : Sehr geehrte Damen und Herren,
+Ihrem Angebot folgend ließ ich mir als Mobilfunkkunde Ihres Unternehmens 
+auch den Internetzugang incl. der e-mail adresse toronto66@eplus-online 
+von Ihnen bereitstellen. Jedoch ist es mir bis heute nicht möglich, 
+e-mails abzurufen, jedesmal, wenn ich es versuche, erhalte ich die Meldung:
+"Die Serveranmeldung mit Kennwortauthentifizierung ist fehlgeschlagen. 
+Konto: 'mail.eplus-online.de', Server: 'mail.eplus-online.de', Protokoll: 
+POP3, Serverantwort: '-ERR invalid command', Anschluss: 110, Secure(SSL): 
+Nein, Serverfehler: 0x800CCC90, Fehlernummer: 0x800CCC18"
+Was kann ich ändern, um e-mails empfangen zu können? Der Versand klappt 
+bisher reibungslos.
+
+Mit freundlichen Grüßen,
+Bernd Gagel
+-------------------------------------
+--443611243.1005935512985.JavaMail.nsuser@apps1mn1--
+

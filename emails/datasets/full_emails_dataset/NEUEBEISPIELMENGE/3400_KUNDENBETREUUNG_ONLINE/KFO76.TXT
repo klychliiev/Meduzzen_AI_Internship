@@ -1,0 +1,28 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	07.03.2001 00:14:00
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Frau
+Name           : Petra Bartl
+Handyrufnummer : 49 177 2428361
+Account Nummer :
+Handymodell    : Siemens
+Provider       : E-Plus Service
+Email          : Petra.Bartl@t-online.de
+-------------------------------------
+Nachricht      : Die Online Kundenbetreuung funktioniert bei mir nicht.
+
+Fehler: Kundenlogin oder Passwort falsch. Habe mir beides noch mal 
+schicken lassen. Geht aber trotzdem nicht.
+
+Mit freundlichen Grüßen
+
+Petra Bartl
+-------------------------------------
+--497901262.983920440746.JavaMail.nsuser@app04mn1--
+

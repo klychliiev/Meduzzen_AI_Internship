@@ -1,0 +1,46 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	01.02.2001 13:21:17
+Betreff:	E-Mail Beantwortung  [Virus checked]
+
+	  
+
+
+--497932441.981030077823.JavaMail.nsuser@app02mn1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=ISO-8859-1
+
+Anrede         : Frau
+Name           : Andrea Schr=F6ter
+Handyrufnummer : 49 177 3322446
+Account Nummer :=20
+Handymodell    : Xenium 9@9
+Provider       : E-Plus Service
+Email          : andrea.schroeter@cybio-ag.com
+-------------------------------------
+Nachricht      : Guten Tag,
+
+eine Frage zum automatischen Versenden von SMS:
+Wir wollen SMS vom PC mit ISDN-Karte an den Provider E-plus versenden 
+(Anwe=
+ndungsfall: Alarm-Meldung bei der =DCberwachung automatischer Anlagen).
+
+Vom Hersteller der verwendeten Kommunikations-Tools (Produkt LUCA, 
+Herstell=
+er: Langner GmbH Hamburg) erhielten wir die Information, dass von E-plus 
+nu=
+r Modemverbindungen unterst=FCtzt werden. Ist dieser Sachverhalt korrekt?
+
+Falls das Versenden mittels ISDN-Karte doch m=F6glich ist, welche 
+Einstellu=
+ngen m=FCssen verwendet werden?
+
+-ProviderNr: 01771167 ?
+-Protokoll: TAP oder UCP ?
+
+Vielen Dank.
+Mit freundlichen Gruessen
+Andrea Schr=F6ter
+-------------------------------------
+--497932441.981030077823.JavaMail.nsuser@app02mn1--
+

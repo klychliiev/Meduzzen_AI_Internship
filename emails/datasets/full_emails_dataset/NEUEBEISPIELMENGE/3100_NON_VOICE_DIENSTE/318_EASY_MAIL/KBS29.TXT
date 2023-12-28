@@ -1,0 +1,27 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	20.07.2001 22:08:21
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Uwe Reinartz
+Handyrufnummer : 49 177 7426537
+Account Nummer :
+Handymodell    :
+Provider       : E-Plus Service
+Email          : Uwe.Reinartz@T-Online.de
+-------------------------------------
+Nachricht      : Seitdem ich eine ISDN anschluss habe stü+rzt bei mir das 
+Programm EASY-MAIL ab. Der Versand von SMS funktioniert nicht mehr. Der 
+anschluss funktioniert in allen anderen Bereichen Internet und mail 
+Störungsfrei. Als Modem Funktioniert eine EUMEX 504 PC. Der ISDN anschluss 
+über CApi wird auch richtig erkannt Capi 20.DLL. Beim Versenden der SMS 
+stürzt das Programm komplett ab und muss geschlossen werden.
+Vielen Dank U. Reinartz
+-------------------------------------
+--443671524.995663301152.JavaMail.nsuser@apps1mn1--
+
