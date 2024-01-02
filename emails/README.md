@@ -1,5 +1,19 @@
 # Emails categorization 
 Email categorization is a task which involves classifying emails into meaningful groups using a supervised algorithm and Natural Language Processing (NLP) 
+## Project structure 
+
+| <center>Item | <center> Description  |
+|:---:|---|
+| csv_datasets | Folder with preprocessed datasets in .csv format |
+| datasets | Folder with unpreprocessed data  |
+| data_preprocessing.ipynb | Notebook with data preprocessing scripts |
+| zero_shot_classification_emails.ipynb | Notebook with experiments in using pre-trained models for zero-shot German emails classification  |
+| traditional_ml.ipynb | Notebook with experiments in using tradional ML algortighms such as SVM, Logistic Regression, NB for email categories classification |
+| training_script.py | Python script ... |
+| deploy_streamlit.py | Script for deploying using streamlit |
+| README.md | Overview of the project |
+
+
 ## Libraries 
 ## German Text Decoding 
 
