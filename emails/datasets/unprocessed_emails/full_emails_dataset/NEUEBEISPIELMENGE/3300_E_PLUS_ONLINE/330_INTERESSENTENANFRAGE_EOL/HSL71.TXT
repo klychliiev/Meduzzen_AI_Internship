@@ -1,0 +1,37 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	04.12.2001 18:18:35
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : wolfgang wagner
+Handyrufnummer : 49 177 3208797
+Account Nummer : 5020423
+Handymodell    : nokia 6210
+Provider       : E-Plus Service
+Email          : wagnerw@eplus-online.de
+-------------------------------------
+Nachricht      : Hallo zusammen,
+
+seit kurzem besitzen wir ein zweites
+eplus handy. Nun will ich natürlich auch
+die zweite kostenlose i-net stunde nutzen.
+
+Fragen:
+1. Geht das überhaupt auf dem gleichen
+festnetzanschluss
+2. Kann ich den e-plus i-net zugang für verschiedene benutzer 
+konfigurieren, sodass ich nicht bei jedem login benutzerdaten und kennwort 
+neu eigeben muss ?
+
+Wenn Sie mir da weiterhelfen könnten, wäre ich dankbar.
+
+mfg
+w. wagner
+-------------------------------------
+--10658528.1007486315631.JavaMail.nsuser@apps3mn1--
+

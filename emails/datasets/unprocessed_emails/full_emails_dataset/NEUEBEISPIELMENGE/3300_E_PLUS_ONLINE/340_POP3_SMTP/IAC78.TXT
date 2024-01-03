@@ -1,0 +1,28 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	01.10.2001 15:59:37
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Patrick Soyke
+Handyrufnummer : 49 163 3335971
+Account Nummer :
+Handymodell    : SonyCMD-Z5
+Provider       : E-Plus Service
+Email          : patrick.soyke@web.de
+-------------------------------------
+Nachricht      : Sehr geehrte Damen und Herren,mein Sony-Handy hat die 
+Möglichkeit E-Mails zu senden und zu empfangen. Leider weiß ich nicht 
+genau welche Einstellungen(Nr.,pop3-Server,smtp-Server etc.) ich bei 
+meinem Handy vornehmen muß, um E-Mais von Freemail und E-Plus-Online auf 
+mein Handy schicken zu lassen. Ich habe bis jetzt keine Informationen dazu 
+auf den Internetseiten bei E-Plus und E-Plus-Online gefunden. Vielleicht 
+können sie mir ja weiterhelfen. Mit freundlichen Grüßen
+Patrick Soyke
+-------------------------------------
+--443784700.1001948377665.JavaMail.nsuser@apps1mn1--
+

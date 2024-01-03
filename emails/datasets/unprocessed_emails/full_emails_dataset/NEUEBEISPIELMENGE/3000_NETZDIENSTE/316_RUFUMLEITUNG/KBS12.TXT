@@ -1,0 +1,23 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	06.03.2001 01:25:29
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Jan Kauder
+Handyrufnummer : 49 177 6027311
+Account Nummer :
+Handymodell    : Nokia 6210
+Provider       : E-Plus Service
+Email          : jan.kauder@t-online.de
+-------------------------------------
+Nachricht      : Ist es möglich, die automatische Rufumleitung auf die 
+Mailbox bei Nichtannahme des Gesprächs auszuschalten, so daß beim Anrufer 
+nach einiger Zeit ein Besetztzeichen zu hören ist?
+-------------------------------------
+--497966388.983838329726.JavaMail.nsuser@app02mn1--
+

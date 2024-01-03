@@ -1,0 +1,28 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	18.04.2001 06:12:21
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Mario Haase
+Handyrufnummer : 49 163 3376383
+Account Nummer : 1169679
+Handymodell    : NOKIA 6210
+Provider       : E-Plus Service
+Email          : mario-haase@gmx.de
+-------------------------------------
+Nachricht      : Ich habe versucht mich mit meinem Handy und dem original 
+Nokia Datenkabel über e-plus Online ins Internet einzuwählen. Leider ist 
+mir nur eine Verbindung mit 9600 baut gelungen. Mein Handy unterstützt 
+aber den HSMD Standard. Sobald ich im Modem Setup den Schieberegler der 
+Datenübertragungsgeschwindigkeit veränder, dann wird der Einwahlvorgang 
+sofort abgebrochen.
+Ich hoffe Sie können mir weiterhelfen.
+mfg Mario Haase
+-------------------------------------
+--497957908.987570741740.JavaMail.nsuser@apps2mn1--
+

@@ -1,0 +1,25 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	12.03.2001 13:23:39
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Frau
+Name           : Rosi Huchler
+Handyrufnummer : 49 163 2610194
+Account Nummer : ?
+Handymodell    : Nokia 8210
+Provider       : E-Plus Service
+Email          : rosihuchler@eplus-online.de
+-------------------------------------
+Nachricht      : Wenn ich meine emailpost öffne, erscheint blau unterlegt 
+der Absender und im unteren Feld automatisch der Text.Warum? Hole ich mir 
+nicht mit dieser Methode auch automatisch irgendwelche Viren, die so 
+gerade kursieren? Kann ich selbst diesen Zustand ändern und wenn ja, bitte 
+wie, bin noch Anfänger.
+-------------------------------------
+--497955565.984399819935.JavaMail.nsuser@app04mn1--
+

@@ -1,0 +1,54 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	08.10.2001 10:54:51
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Richard Gailer
+Handyrufnummer : 49 163 3403500
+Account Nummer : 4226801
+Handymodell    : Siemens SL45
+Provider       : E-Plus Service
+Email          : richard.gailer@eplus-online.de
+-------------------------------------
+Nachricht      : Liebes EPLUS-Team,
+
+ich habe mehrere Anregungen und ein Problem zu melden mit der Unfified 
+Mailbox.
+
+Problem:
+1. Seitdem ich den Internet Explorer 6.0 installiert habe funktioniert Ihr 
+Plugin für das Vorspielen von Voice-Nachrichten etc. nicht mehr. Auch ein 
+neuerliches Laden des Plugins löst das roblem nicht.
+
+2. Ich habe nach wie vor mehrere Ordner mit gleicher Bezeichnung.
+
+Anregungen:
+1. Beim Anruf der Mailbox werden neue eMails vorgelesen - klasse.
+Aber, die Anzahl der Textzeilen und die Anzahl der Anhänge interessiert 
+mich erst einmal gar nicht und kostet nur viel Zeit.
+
+2. Eindeutig englische Passagen in eMails werden auf deutsch vorgelesen. 
+Im Zeitalter der Globalisierung werden mehr und mehr englischsprachige 
+Texte versandt. Dies sollte die Unified Mailbox beherrschen.
+
+3. Links in eMails werden "wunderbar" ausführlich buchstabiert. Dies 
+sollte ein geeigneter Filter unterdrücken, zumal einige Links unendlich 
+lange sind.
+
+4. Beträge werden sinnvollerweise in vollem Wortlaut genannt. Handelt es 
+sich aber um eine Kundennummer o.ä. ist diese Art des Vorlesens Unsinn.
+
+
+Bitte informieren Sie mich direkt zu meinen Problemmeldungen. Die 
+Anregungen sollten Sie in weiteren Releases bedenken.
+
+Viele Grüsse,
+R.Gailer
+-------------------------------------
+--443524724.1002534891149.JavaMail.nsuser@apps3mn1--
+

@@ -1,0 +1,27 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	30.09.2001 17:19:37
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Frau
+Name           : Markus Schetter
+Handyrufnummer : 49 163 2042936
+Account Nummer : 1198335
+Handymodell    :
+Provider       : E-Plus Service
+Email          : sschettma@eplus-online.de
+-------------------------------------
+Nachricht      : Hallo,
+ich würde gerne Outlook-Express benutzen. Leider werden die bei eplus 
+eingegangenen Mails nicht auf Outlook überspielt. Wie lauten die 
+Einstellungen (Severname, POP)????
+
+MfG
+M. Schetter
+-------------------------------------
+--444113600.1001866777304.JavaMail.nsuser@apps2mn1--
+

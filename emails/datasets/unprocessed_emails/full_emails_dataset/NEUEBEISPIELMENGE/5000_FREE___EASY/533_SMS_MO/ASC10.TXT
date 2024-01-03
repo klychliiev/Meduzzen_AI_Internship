@@ -1,0 +1,30 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	07.02.2001 20:11:35
+Betreff:	E-Mail Beantwortung  [Virus checked]
+
+	  
+
+
+--497965419.981573095064.JavaMail.nsuser@app01mn1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=ISO-8859-1
+
+Anrede         : Herr
+Name           : Steffen B=F6hme
+Handyrufnummer : 49 177 6199388
+Account Nummer :=20
+Handymodell    : Philipps Navy
+Provider       : E-Plus Service
+Email          : steffen.boehme@debitel.net
+-------------------------------------
+Nachricht      : Ich kann keine SMS mehr senden. Das Nachbestellen 
+scheiter=
+te bisher. Sicher liegt eine St=F6rung im Netz vor und der Dienst muss 
+wied=
+er aktiviert werden.=20
+MfG
+Steffen B=F6hme
+-------------------------------------
+--497965419.981573095064.JavaMail.nsuser@app01mn1--
+

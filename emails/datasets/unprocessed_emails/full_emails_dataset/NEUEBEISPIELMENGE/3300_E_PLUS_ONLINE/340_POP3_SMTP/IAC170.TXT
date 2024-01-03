@@ -1,0 +1,31 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	02.05.2001 13:10:19
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Helmut Schmelz
+Handyrufnummer : 49 163 6325600
+Account Nummer :
+Handymodell    : Sony CMD-Z5
+Provider       : E-Plus Service
+Email          : Maaster@Maaster2000.de
+-------------------------------------
+Nachricht      : Hallo E-Plus Team,
+
+ich habe nur eine kurze Frage: das Sony CMD-Z5 unterstützt den Empfang von 
+E-Mails via pop3 und SMTP. Meine Frage ist, welche DAten muss ich eingeben 
+um auf mein E-Mail Fach zugreifen zu können ? Also einwahlnummer, 
+Benutzername, Kennwort und DNS Server.
+Ich habe den Privat Tarif mit der City Option.
+
+Vielen Dank im Vorraus,
+
+Helmut Schmelz
+-------------------------------------
+--443827454.988805419454.JavaMail.nsuser@apps2mn1--
+

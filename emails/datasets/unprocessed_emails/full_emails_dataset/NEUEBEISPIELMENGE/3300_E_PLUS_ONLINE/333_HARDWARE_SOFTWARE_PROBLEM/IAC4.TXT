@@ -1,0 +1,23 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	07.12.2001 12:43:34
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Frau
+Name           : regina rohrbach
+Handyrufnummer : 49 163 2698439
+Account Nummer :
+Handymodell    : siemens 35
+Provider       : E-Plus Service
+Email          : ginar@gmx.net
+-------------------------------------
+Nachricht      : ich versuche mich beim eplus portal anzumelden und 
+bekomme fehlermeldungen (internal server error). kann ich was ändern oder 
+liegt das problem bei ihnen? gruss, regina
+-------------------------------------
+--24182148.1007725414247.JavaMail.nsuser@apps3mn1--
+

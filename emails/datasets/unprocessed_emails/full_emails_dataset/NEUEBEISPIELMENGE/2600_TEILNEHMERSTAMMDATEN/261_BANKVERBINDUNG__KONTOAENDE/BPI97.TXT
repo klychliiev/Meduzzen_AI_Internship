@@ -1,0 +1,25 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	18.09.2001 05:51:41
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Helmut Tolksdorff
+Handyrufnummer : 49 177 2020279
+Account Nummer :
+Handymodell    : Alcatel 511
+Provider       : E-Plus Service
+Email          : HelmutT@web.de
+-------------------------------------
+Nachricht      : Meine Bankverbindung hat sich wie folgt geändert:
+Ab 01.10.2001
+Sparkasse Bremen
+BLZ 29050101
+Kto. 12766010
+-------------------------------------
+--443969183.1000788701937.JavaMail.nsuser@apps1mn1--
+

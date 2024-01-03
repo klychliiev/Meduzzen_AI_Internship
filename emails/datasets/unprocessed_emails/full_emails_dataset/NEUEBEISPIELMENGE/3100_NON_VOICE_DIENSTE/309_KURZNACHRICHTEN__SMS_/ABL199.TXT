@@ -1,0 +1,34 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	17.10.2001 14:36:51
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Stefan Scheurer
+Handyrufnummer : 49 163 5005000
+Account Nummer : habe ich unterwegs nicht dabei
+Handymodell    : irrelevant
+Provider       : E-Plus Service
+Email          : scheurer@swr3.de
+-------------------------------------
+Nachricht      : Hallo!
+
+Ich habe ein ernstes Problem mit Eurem SMS-Dienst. Der soll mich 
+benachrichtigen, wenn neue Emails da sind. Aber das macht er - je nach 
+Lust und Laune -, zum Teil auch bis zu 24 Stunden später.
+
+So ist aber eine SMS-Noticifation über neue EMails sinnlos, wenn das mal 
+sofort geht, und ein anderes Mal 24 Stunden dauert.
+
+Liegt da eine Störung vor?
+
+Vielen Dank für eine Antwort.
+
+Stefan Scheurer
+-------------------------------------
+--443842025.1003325811099.JavaMail.nsuser@apps1mn1--
+

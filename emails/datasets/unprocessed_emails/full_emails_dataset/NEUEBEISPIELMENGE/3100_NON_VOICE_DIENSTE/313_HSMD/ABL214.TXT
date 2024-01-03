@@ -1,0 +1,34 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	25.03.2001 16:37:36
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Stefan Hübner
+Handyrufnummer : 49 177 2294464
+Account Nummer : 1151961
+Handymodell    : Nokia 6210
+Provider       : E-Plus Service
+Email          : Huebner.Stefan@gmx.de
+-------------------------------------
+Nachricht      : guten tag,
+
+mein neues handy (nokia 6210) unterstützt HSCSD (oder auch HSMD: High 
+speed mobile data) und ich möchte dieses schnelle verfahren nutzen, um via 
+handy mit infrarot-verbindung ins internet zu gehen. ich habe die aktuelle 
+zugangssoftware von nokia für windows 2000 installiert und im programm 
+"nokia modem options" die übertragungsrate 14,4kbit/s gewählt, doch ein 
+einwählen ist bei dieser übertragungsrate nicht möglich (bei 9.4kbit 
+hingegen schon).
+mir ist in diesem programm der hinweis aufgefallen, dass meine sim-karte 
+erst für diesen dienst freigeschaltet werden muss. ist das richtig?
+
+mit bitte um schnelle aufklärung wünsche ich einen schönen sonntag
+stefan hübner
+-------------------------------------
+--497961749.985534656035.JavaMail.nsuser@app04mn1--
+

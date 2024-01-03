@@ -1,0 +1,32 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	27.11.2001 14:06:46
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Gunnar Walter
+Handyrufnummer : 49 177 4688300
+Account Nummer :
+Handymodell    : Siemens S45
+Provider       : E-Plus Service
+Email          : Gunnar.Walter@walter-auktionen.de
+-------------------------------------
+Nachricht      : Sehr geehrte Damen und Herren,
+
+ich habe eine Frage zu GPRS:
+
+Kann ich mit meinem Handy (Siemens S45) WAP über GPRS nutzen? Ich habe den 
+Tarif Time&More 20.
+Wenn ich versuche, WAP über GPRS zu starten, erscheint immer die Meldung: 
+"GPRS-Zugang verweigert".
+
+Mit freundlichen Grüßen
+
+Gunnar Walter
+-------------------------------------
+--11303711.1006866406788.JavaMail.nsuser@apps1mn1--
+

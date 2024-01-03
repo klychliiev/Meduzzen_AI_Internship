@@ -1,0 +1,23 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	31.08.2001 07:10:31
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Frank Pichottky
+Handyrufnummer : 49 178 8770508
+Account Nummer :
+Handymodell    : Siemens C35  + Siemens S35
+Provider       : E-Plus Service
+Email          : fpichottky@brasseler.de
+-------------------------------------
+Nachricht      : Ich möchte den Anrufbeantworter für meine Free&Easy-Karte 
+(01773579176)zeitweise deaktivieren. Ist das möglich, und wie kann das 
+umgesetzt werden?
+-------------------------------------
+--444065361.999238231509.JavaMail.nsuser@apps1mn1--
+

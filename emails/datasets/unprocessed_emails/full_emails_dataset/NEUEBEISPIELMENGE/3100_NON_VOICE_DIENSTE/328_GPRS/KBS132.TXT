@@ -1,0 +1,25 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	30.07.2001 15:23:48
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Holger Baur
+Handyrufnummer : 49 177 0177774
+Account Nummer :
+Handymodell    : Siemens S25
+Provider       : debitel
+Email          : hbaur@email.com
+-------------------------------------
+Nachricht      : Sie beiten GPRS im E+ Netz an. Der
+Provider debitel nicht (fuer E+)!
+Auf Anfrage bei debitel habe ich erfahren, dass sie dies prinzipiell nicht 
+an debitel anbieten. Kann das sein und wie kann ich nun GPRS als E Plus 
+Kunde nutzen?
+
+MfG H. Baur
+-------------------------------------

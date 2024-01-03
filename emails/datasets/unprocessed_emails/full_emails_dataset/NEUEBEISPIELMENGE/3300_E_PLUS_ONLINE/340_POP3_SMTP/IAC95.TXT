@@ -1,0 +1,25 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	11.02.2001 13:22:09
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Frau
+Name           : Andrea Biberger
+Handyrufnummer : 49 163 2728524
+Account Nummer : 1138876
+Handymodell    : 5130
+Provider       : E-Plus Service
+Email          : andrea@biberger.de
+-------------------------------------
+Nachricht      : Wie konfiguriere ich OUTLOOK um mein Freemailkonto über 
+POP3 abzurufen? Benutzerkennung, PW und Server...
+
+mfg
+A. Biberger
+-------------------------------------
+--497956095.981894129751.JavaMail.nsuser@app03mn1--
+

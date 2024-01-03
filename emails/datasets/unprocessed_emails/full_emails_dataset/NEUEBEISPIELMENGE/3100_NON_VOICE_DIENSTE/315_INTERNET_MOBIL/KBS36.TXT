@@ -1,0 +1,29 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	03.03.2001 11:16:54
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Dipl. Ing. Michael Schulz
+Handyrufnummer : 49 177 8972519
+Account Nummer :
+Handymodell    : Siemens S35i
+Provider       : E-Plus Service
+Email          : KundEDV@Comfactory.de
+-------------------------------------
+Nachricht      : Dear E-PLUS-Team,
+
+ich suche die SMS Mail Gateway Nummer für den SMS Versand aus dem Palm.
+
+Dank für Nachricht.
+
+MFG
+
+M. Schulz
+-------------------------------------
+--497966126.983614614833.JavaMail.nsuser@app04mn1--
+

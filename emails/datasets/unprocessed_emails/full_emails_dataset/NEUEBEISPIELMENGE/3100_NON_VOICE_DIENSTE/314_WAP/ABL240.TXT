@@ -1,0 +1,33 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	09.02.2001 17:54:17
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Jörg Beilharz
+Handyrufnummer : 49 163 3450328
+Account Nummer :
+Handymodell    : Nokia 6210
+Provider       : E-Plus Service
+Email          : j.beilharz@gmx.de
+-------------------------------------
+Nachricht      : Sehr geehrte Damen und Herren,
+
+ich habe mein Handy per SMS Service auf den E-Plus Wapzugang konfiguriert.
+
+Im Ausland (Österreich, Netzbetreiber "one") musste ich feststellen, dass 
+keine WAP Verbindung hergestellt werden konnte.
+
+A) Ist es prinzipiell möglich, im Ausland WAP Seiten aufzurufen?
+
+B) Wie muss das Handy konfiguriert werden, damit WAP Dienste sowohl im In- 
+als auch Ausland abgerufen werden können?
+
+Mit freundlichen Grüßen, J. Beilharz
+-------------------------------------
+--497959782.981737657700.JavaMail.nsuser@app01mn1--
+

@@ -1,0 +1,29 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	29.10.2001 11:52:05
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Thomas Pietrzyk
+Handyrufnummer : 49 177 3092354
+Account Nummer : 1189812
+Handymodell    : Nokia 6210
+Provider       : E-Plus Service
+Email          : tpietrzyk@gmx.de
+-------------------------------------
+Nachricht      : Leider ist es mir nicht moeglich mein Homepage zu 
+bearbeiten, d.h. Dateien auf dem Server zu loeschen oder neue 
+hinzuzufuegen ! Scheinbar habe ich keine Berechtigung, obwohl ich mich 
+ordnungsgemaess eingeloggt habe. Dies geschieht sowohl ueber FTPvia 
+Browser, als auch ueber WS_FTP_LE. Woran kann das liegen, ich waere 
+besonders an einer Uebetragung ueber den Browser interssiert !
+Fuer eine schnelle Antwort bedanke ich mich schon im Voraus.
+
+Mit freundlichen Gruessen
+
+T. Pietrzyk
+-------------------------------------

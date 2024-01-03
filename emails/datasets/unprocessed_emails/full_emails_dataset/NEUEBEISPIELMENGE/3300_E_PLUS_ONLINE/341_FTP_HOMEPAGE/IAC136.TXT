@@ -1,0 +1,38 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	29.01.2001 17:50:30
+Betreff:	E-Mail Beantwortung  [Virus checked]
+
+	  
+
+
+Anrede         : Herr
+Name           : Stephan Düster
+Handyrufnummer : 49 177 2367192
+Account Nummer : 1094797
+Handymodell    : 5130
+Provider       : E-Plus Service
+Email          : stephan.duester@eplus-online.de
+-------------------------------------
+Nachricht      : Hallo allerseits,
+
+ich habe eine Frage zur Gestaltung meiner bereits existierenden Homepage.
+Habe in den FAQs nichts gefunden.
+
+Ich wollte das Gästebuch verwenden, welches eplus beim anlegen der neuen 
+Homepage
+installiert. Das funktioniert aber nicht. Was mache ich falsch. Fehlen mir 
+javascripts?
+Wäre nett wenn jemand mal auf meiner Website nachsehen  würde. Der Link 
+zum Gästebuch ist zur Zeit stillgelegt, verweist auf eine Dummyseite in 
+meinem rootverzeichnis. Die seite heisst nach wie vor guestbook.htm. 
+Aufrufen könnte man sie (hab ich gestestet), aber beim submit , da hakt es 
+noch. Welcher script wird da ausgeführt ?
+
+Die URL lautet
+
+http://home.eplus-online.de/duester
+
+Viele Grüße
+Stephan
+-------------------------------------

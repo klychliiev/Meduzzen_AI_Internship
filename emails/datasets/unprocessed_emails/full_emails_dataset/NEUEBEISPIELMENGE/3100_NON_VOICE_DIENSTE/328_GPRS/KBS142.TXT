@@ -1,0 +1,25 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	09.09.2001 18:04:02
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Frau
+Name           : Gregor Schimczyk
+Handyrufnummer : 49 177 3076063
+Account Nummer : 581738
+Handymodell    : Siemens S45
+Provider       : E-Plus Service
+Email          : Gregor.Schimczyk@t-online.de
+-------------------------------------
+Nachricht      : Ich besitze ein Siemens S45. Leder funktioniert bei mir 
+GPRS nicht. Ich bekomme bei jedem WAP-versuch die Meldung GPRS-Zugang 
+verweigert. Die Einstellungen sind richtig mit Kundenhotline agesprochen. 
+Die wusten  mir aber auch nicht zu helfen.
+Die CSD Verbindung funkioniert normal. Ich bitte um Hilfe.
+
+Gregor. Schimczyk
+-------------------------------------

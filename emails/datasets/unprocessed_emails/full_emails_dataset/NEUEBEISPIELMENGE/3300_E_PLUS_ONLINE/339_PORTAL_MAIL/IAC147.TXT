@@ -1,0 +1,26 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	28.05.2001 23:12:25
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Winfried Langner
+Handyrufnummer : 49 177 6468589
+Account Nummer :
+Handymodell    : S 35 i
+Provider       : E-Plus Service
+Email          : winfriedlangner@web.de
+-------------------------------------
+Nachricht      : Ich möchte mich über ALLE eingegangenen Nachrichten per 
+SMS-Notifikation informieren lassen.
+In dem entsprechenden Dialog muß man jedoch bestimmte Einschränkungen 
+engeben, sonst nimmt das Programm die Einstellung (alle Felder freilassen) 
+nicht an.
+Was muß ich angeben?
+-------------------------------------
+--444539430.991087945243.JavaMail.nsuser@apps1mn1--
+

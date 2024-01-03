@@ -1,0 +1,212 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	26.04.2001 09:19:29
+Betreff:	HSCSD Roaming
+
+	  
+
+
+
+Sorry-Telenor sagt da etwas anderes. Mail habe ich angefügt. Bitte prüfen
+Sie Ihre Aussage noch einmal genau !!!
+
+Wir müssen mit ca. 30 Mitarbeitern im Sommer in Norwegen eine FIliale
+aufbauen, d.H. wir brauchen entweder 30 Telenor oder 30 E-Plus-Karten in
+Norwegen. Liefer würden wir E-Plus-Karten nehmen, aber wenn nur Telenor
+Karten wirklich mit HSCSD dort laufen, dann bleibt uns nichts anderes
+möglich. Telenor sagt: Es ist nur eine Roaming-Problem, welcfhes E-Plus
+lösen muß !!!
+
+P.S.: EIn persönlicher Ansprechpartner wie bei Telenor wäre praktisch-so
+bearbeitet meine -zugegeben sehr spezifische- email nicht jedes Mal jemand
+anderes...
+
+Hier die Mail von Telenor:
+
+Hi,
+
+sorry for the late reply. Telenor Mobil's network covers the whole of main
+land Norway with HSCSD and GPRS. The speed which will be available depends
+on the terminal used. When using HSCSD the highest speed currently 
+available
+is 56,7 kbps. Most terminals will give you a speed of 43,2(38,4) kbps, but
+we have tested the Siemens S40 at 56,7 kbps. The speed of the current GPRS
+terminals is around 27 kbps.
+
+You can contact us in Christiansand at Telehuset, the address is:
+
+Telehuset
+
+Kirkegt 11
+
+4600 Kristiansand
+
+Tlf: (+47)38052200
+
+Your contact there will be Rune Kallevik he can be reached on the 
+following:
+
+tlf: (+47)38052095
+email: rune.kallevik@telehuset.no
+
+
+Regards,
+
+Eirik Sveen Finne
+**********************
+Tlf:(+47) 227 (84717)
+Mobil:(+47) 951 69 021
+Fax: (+47)956 47 259
+E-mail: Eirik-Sveen.Finne@telenor.com
+
+
+
+-----Ursprüngliche Nachricht-----
+Von: kundenservice@eplus.de [mailto:kundenservice@eplus.de]
+Gesendet: Montag, 23. April 2001 09:10
+An: Christian Böhme
+Betreff: Antwort: AW: E-Plus Service: HSCSD Roaming
+
+
+Sehr geehrter Herr Böhme,
+
+vielen Dank für Ihre Nachricht.
+
+In einigen Basistationen, darunter auch die, die für den in betroffenen
+Bereich
+verantwortlich sind, laufen noch nicht auf einer Version, die
+uneingeschränkten
+HSCSD-Betrieb ermöglichen. Bei der vorliegenden Version sind nur max 9.6 kB
+möglich. Telenor arbeitet daran,das auch in den restlichen Stationen die
+neue
+Version eingebracht wird. Dadurch würde max. 28.8 kB möglich, dieses kann
+aber
+nicht garantiert werden, da bei der Kanalvergabe Telefonie höhere Priorität
+hat.
+DatenKompression von 9.6 auf 14,4 kB pro Kanal wird von Telenor nicht
+unterstützt.
+Bitte haben Sie Verständnis, dass wir auf die Funktionalität anderer
+Netzbetreiber keinen Einfluss haben.
+
+Wenn wir sonst noch etwas für Sie tun können, lassen Sie es uns wissen - 
+wir
+sind gern für Sie da.
+
+Mit freundlichen Grüßen
+
+Ihr E-Plus Team
+
+---------------------------- Original Message 
+------------------------------
+Christian Böhme <CB@bugcomputer.de>
+AW: E-Plus Service: HSCSD Roaming
+20.04.2001 16:37
+Als Kunde ist bei Ihnen mein Arbeitgeber gelistet
+die BUG Computer GmbH.
+Kartennummer ist: 09-961-208808-2
+
+-----Ursprüngliche Nachricht-----
+Von: kundenservice@eplus.de [mailto:kundenservice@eplus.de]
+Gesendet: Freitag
+20. April 2001 17:11
+An: Christian Böhme
+Betreff: E-Plus Service: HSCSD Roaming
+
+
+Sehr geehrter Herr Böhme
+
+
+vielen Dank für Ihre Nachricht.
+
+anhand der Angaben in Ihrem Schreiben können wir Sie leider nicht als 
+E-Plus
+Service Kunden zuordnen (Die E-Plus Telefonnummer stimmt mit Ihrem Namen in
+unseren Daten überein).
+
+Bitte informieren Sie uns über Ihr Anliegen noch einmal unter Angabe Ihrer
+Kunden- oder Ihrer Funkrufnummer. Gern werden wir dann umgehend eine
+Bearbeitung vornehmen.
+
+Wenn wir sonst noch etwas für Sie tun können
+lassen Sie es uns wissen - wir
+sind gern für Sie da.
+
+Mit freundlichen Grüßen
+
+Ihr E-Plus Team
+
+
+
+cb@bugcomputer.de
+E-Mail Beantwortung
+20.04.2001 14:43
+Anrede         : Frau
+Name           : Herrn Christian böhme
+Handyrufnummer : 49 177 3205777
+Account Nummer :
+Handymodell    : Nokia Cardphone 2.0
+Provider       : E-Plus Service
+Email          : cb@bugcomputer.de
+-------------------------------------Nachricht      : HSCSD Roaming in
+Norwegen
+ist entgegen Ihren Webseiten
+scheinbar NICHT möglich. Ich habe vor Ort etliche Versuche in Norwegen
+unternommen
+ohne Erfolg. Wir brauchen aber für unseren Außendienst DRINGEND
+HSCSD in Norwegen. Wie können Sie uns helfen ? Der TELENOR GSM-Support sagt
+
+es
+liegt wenn an EPLUS...
+Für Rückfragen: 05187-910-135.
+Danke !!! MfG  Christiaqn Böhme
+
+Anlage: Mail von TELENOR
+
+For this to work you must ensure that E-Plus has HSCSD roaming with 
+Telenor.
+From what I can see
+Telenor customers are not able to roam using HSCSD in
+the E-Plus network. So what you should do is to contact E-Plus customer
+services
+and check with them wether or not E-Plus customers are able to
+roam using HSCSD in the Telenor network. If that is not the case
+you should
+probably open a Telenor subscription so that you can use HSCSD while in
+Norway.
+
+Sincerely
+
+
+Thomas Weensvangen
+Telenor Mobil
+Datasupport.
+
+-----Opprinnelig melding-----Fra: Christian Böhme 
+[mailto:CB@bugcomputer.de]
+Sendt: 17. april 2001 18:43
+Til: 'kundeservice-mobil@telenor.com'
+Emne: Problems with HSCSD in your network
+
+
+
+Hallo
+I'm planning to start business in norway.  For this business I need
+high speed internet access. I have a german GSM Card from E Plus Services
+with activated HSCSD. Unfortunately your Telnor GSM Network doesn't
+recognice my HSCSD-Service. I'm only able to use your internet access via
+91500920 with 9600bps
+never faster.
+
+What's wrong ? Technically everything is okay
+in germany everthing
+worked...
+I'm using Nokia Cardphone 2.0
+I'm in the area
+---------------------------------------444841236.987770014984.JavaMail.nsus
+e
+r@apps1mn1--
+
+
+
+
+

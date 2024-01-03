@@ -1,0 +1,26 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	16.10.2001 22:42:20
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Michael Meyer
+Handyrufnummer : 49 163 2498705
+Account Nummer :
+Handymodell    : Nokia 3310
+Provider       : E-Plus Service
+Email          : Meyer_Mic@t-online.de
+-------------------------------------
+Nachricht      : Guten Abend. Wollte mich gerade bei der Kundenbetreuung 
+anmelden. Wenn ich folgende URL laden will, bekomme ich immer die Meldung 
+" HTTP 500 Interner Serverfehler". Kann es sein das euer Server down ist 
+?? Die URL lautet: 
+"https://kundenbetreuung.eplus-online.de/kundenbetreuung".
+MfG
+
+Michael Meyer
+-------------------------------------

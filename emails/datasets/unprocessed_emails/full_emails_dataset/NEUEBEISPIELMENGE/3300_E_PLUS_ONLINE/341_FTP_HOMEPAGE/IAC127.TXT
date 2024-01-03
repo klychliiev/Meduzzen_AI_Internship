@@ -1,0 +1,26 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	13.07.2001 20:41:54
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Frau
+Name           : klemens reckow
+Handyrufnummer : 49 177 2136699
+Account Nummer : 1163839
+Handymodell    : Nokia 6210
+Provider       : E-Plus Service
+Email          : klemens.reckow@web.de
+-------------------------------------
+Nachricht      : Hallo,
+
+welche Einstellungen sind für den FTP-Transfer zu meiner Homepage 
+erforderlich. Wie lautet meine Homepage Adresse ?
+
+Danke im Voraus
+-------------------------------------
+--443758398.995053314934.JavaMail.nsuser@apps1mn1--
+

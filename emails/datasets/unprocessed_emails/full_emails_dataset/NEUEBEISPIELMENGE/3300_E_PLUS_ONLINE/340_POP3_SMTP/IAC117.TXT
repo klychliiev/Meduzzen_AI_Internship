@@ -1,0 +1,28 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	02.06.2001 19:40:58
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Valeri Puhahn
+Handyrufnummer : 49 177 2159030
+Account Nummer : 1836285
+Handymodell    : Panasonic GD93
+Provider       : E-Plus Service
+Email          : puhahn@t-online.de
+-------------------------------------
+Nachricht      : Sehr geehrte Damen und Herren,
+ich würde gerne meine E-Mails via outlook-Express von Ihrem Server 
+abhohlen. Bitte teilen Sie mir mit ob es grundsätzlich möglich ist, und 
+wenn ja hätte ich gerne die POP3- und SMTP-Servernamen gewusst.
+
+MfG
+
+Valeri Puhahn
+-------------------------------------
+--444305486.991507258756.JavaMail.nsuser@apps2mn1--
+

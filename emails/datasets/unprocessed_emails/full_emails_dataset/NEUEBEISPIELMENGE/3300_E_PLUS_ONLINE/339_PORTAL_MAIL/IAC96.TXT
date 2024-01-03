@@ -1,0 +1,32 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	11.09.2001 09:59:24
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Michael Ruoff
+Handyrufnummer : 49 163 3644326
+Account Nummer : m.ruoff
+Handymodell    : Nokia 6210
+Provider       : E-Plus Service
+Email          : mail@michael-ruoff.de
+-------------------------------------
+Nachricht      : Hallo,
+
+seit Samstag funktioniert die Autoforward-Funktion meines Mail-Accounts 
+bei Eplus-online nicht mehr. Ich kann dort eintragen, was ich will, 
+Weiterleitungen erfolgen keine. Bitte reparieren Sie das umgehend, da ich 
+ansonsten den Account nicht nutzen kann.
+Ich begebe mich morgen für einige Tage auf Reisen und wäre froh, wenn ich 
+bis dahin den Autoforward wieder benutzen könnte.
+
+Gruß
+
+Michael Ruoff
+-------------------------------------
+--443839476.1000198764401.JavaMail.nsuser@apps2mn1--
+

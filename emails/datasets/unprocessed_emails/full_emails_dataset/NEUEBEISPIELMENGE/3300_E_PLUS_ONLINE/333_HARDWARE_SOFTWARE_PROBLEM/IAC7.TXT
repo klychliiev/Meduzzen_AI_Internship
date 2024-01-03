@@ -1,0 +1,27 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	19.11.2001 21:20:30
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Rolf Sonnenberg
+Handyrufnummer : 49 163 3056217
+Account Nummer :
+Handymodell    : Nokia 6210
+Provider       : E-Plus Service
+Email          : eplus@rolf-sonnenberg.de
+-------------------------------------
+Nachricht      : Guten Tag,
+
+leider kann ich mich immer noch nicht für die E-Plus-Online-Dienste 
+anmelden. Ständig bekomme ich die Fehlermeldung "BIND...".
+
+Gruß,
+Rolf Sonnenberg
+-------------------------------------
+--444296859.1006201230280.JavaMail.nsuser@apps1mn1--
+

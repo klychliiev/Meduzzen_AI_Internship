@@ -1,0 +1,29 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	24.07.2001 11:54:42
+Betreff:	Wap
+
+	  
+
+
+
+Sehr geehrtes E-Plus Online Team.
+
+Für die WAP-Einrichtung meines Ericsson R380S benötige ich noch
+folgende Informationen:
+>Gateway IP-Adresse
+>Benutzername und Kennwort (falls diese nicht mit den
+Einstellungen für Email identisch sind)
+>Verbindung "Connectionless" oder "Connection oriented"
+
+Gruß
+ Hans-Juergen Burger
+
+
+********************************
+mailto: hjburger@eplus-online.de
+An diese E-Mail bitte keine Dateianhänge senden !!
+Phone: +49 163 3345414
+********************************
+
+

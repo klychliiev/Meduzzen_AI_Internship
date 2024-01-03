@@ -1,0 +1,32 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	24.02.2001 20:50:44
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Peter Hitzfelder
+Handyrufnummer : 49 177 3134960
+Account Nummer :
+Handymodell    :
+Provider       : E-Plus Service
+Email          : Peter.Hitzfelder@swtue.de
+-------------------------------------
+Nachricht      : Sehr geehrte Dame oder Herr,
+
+ich habe das Problem, daß ich bei einem aktuellen Projekt über ein 
+herkömmliches  Festnetzmodem eine SMS an ein Eplus-Handy verschicken. Ich 
+habe allerdings nirgends Informationen gefunden, wie ich eine solche SMS 
+über Modem verschicken kann.
+Über eine baldige Antwort würde ich mich sehr freuen.
+
+
+Mit freundlichem Gruß
+
+i.A. Hitzfelder
+-------------------------------------
+--497844126.983044244573.JavaMail.nsuser@app01mn1--
+

@@ -1,0 +1,95 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	14.02.2001 14:19:06
+Betreff:	Re: E-Plus Service: Ihre Nachricht vom 22.01.2001
+
+	  
+
+
+
+Liebes E-Plus Team,
+womöglich haben Sie meine E-Mail nicht erhalten, da ich keine Antwort
+bekomme. so sende ich Ihnen meine Frage hiermit nocheinmal.
+
+
+----- Originalnachricht -----
+Von: <alexw@eplus-online.de>
+Datum: Dienstag, 23. Januar  2001, 17:59
+Betreff: Re: E-Plus Service: Ihre Nachricht vom 22.01.2001
+
+> Vielen Dnk für Ihre Antwort,
+> doch an meinem FTP-Programm liegt es wohl nicht.
+> Mit einem anderen FTP-Programm funktioniert es auch nicht.
+>
+> Mit beiden FTP-Programmen:
+> Unterverzeichnisse werden zwar angelegt, doch ich kann nicht
+> in diese Verzeichnisse wechseln.
+>
+> Inhalt des Messages Fensters:
+>    CWD (Unterverzeichnis)
+>    Meldung des Eplus-FTP Servers:
+>    Cannot change to directory ...
+>
+> obwohl das Unterverzeichnis vorher angelegt worden ist und auch
+> im Baum angezeigt wird.
+>
+> Mit freundlichen Grüßen,
+>
+> Alex Wachsmann
+>
+>
+> ----- Originalnachricht -----
+> Von: kundenservice@eplus.de
+> Datum: Dienstag, 23. Januar  2001, 13:47
+> Betreff: E-Plus Service: Ihre Nachricht vom 22.01.2001
+>
+> > Sehr geehrter Herr Wachsmann,
+> >
+> > vielen Dank für Ihre Nachricht.
+> >
+> > Diese Funktion ist bei E-Plus Online grundsätzlich
+> gewährleistet.
+> > Da z. Zt.
+> > keine Servicebeeinträchtigungen vorliegen, empfehlen wir Ihnen
+> die
+> > Verwendungeines anderen FTP-Programmes.
+> >
+> > Wenn wir sonst noch etwas für Sie tun können, lassen Sie es uns
+> > wissen - wir
+> > sind gern für Sie da.
+> >
+> > Da Ihre Anfrage und diese Antwort durch uns nicht gespeichert
+> > werden, bitten wir
+> > Sie, bei eventuellen Rückfragen immer den vollständigen
+> Schriftwechsel> mitzusenden.
+> >
+> > Mit freundlichen Grüßen
+> >
+> > Ihr E-Plus Team
+> >
+> > alexw@eplus-online.de
+> > E-Mail Beantwortung  [Virus checked]
+> > 22.01.2001 19:51
+> > Anrede         : Herr
+> > Name           : Alexander Wachsmann
+> > Handyrufnummer : 49 177 2304041
+> > Account Nummer : 123555
+> > Handymodell    : Nokia 6150
+> > Provider       : E-Plus Service
+> > Email          : alexw@eplus-online.de
+> > -------------------------------------
+> > Nachricht      : Hallo liebes E-plus Team,
+> >
+> > Ich kann auf dem E-Plus Server keine
+> > Unterverzeichnisse Anlegen wenn ich meine Hompage übertrage.
+> > Mein HTML-Programm legt diese aber automatisch an, sodaß ich diese
+> > Unterverzeichnisse brauche, damit die anderen Seiten funktionieren.
+> >
+> > Vielen Dank im Voraus,
+> >
+> > Alex Wachsmann-------------------------------------
+> >
+> >
+> >
+>
+

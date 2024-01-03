@@ -1,0 +1,43 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	04.03.2001 11:59:41
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Sven Steinert
+Handyrufnummer : 49 177 5226984
+Account Nummer :
+Handymodell    : Nokia 6210
+Provider       : E-Plus Service
+Email          : smok@onlinehome.de
+-------------------------------------
+Nachricht      : Hallo E-Plus Team,
+Erstmal ein ganz großes Lob an E-Plus. Ich bin mehr als zufrieden mit euch 
+und nutze das e_plus Netz schon ca. 3J..
+Ich habe fast immer sehr guten Empfang und euer Service ist auch Spitze.
+Mein Problem:
+Ich habe mir am letzten Donnerstag, den 01.03.01, HSMD freischalten 
+lassen. Mir wurde gesagt, daß es ab dem nächsten Tag verfügbar wäre.
+Wie bekomme ich nun über meinen Compaq AERO 1520 mit Windows CE 3.0 eine 
+HSMD Verbindung zu stande ?
+Ich habe im Netz was über AT Befehle gelesen, weiß aber nicht was ich 
+damit anfangen soll.
+Schneller ist mein Internet Zugriff
+auf jeden Fall noch nicht.
+Muß ich vielleicht noch irgendeine Software installieren auf dem CE Gerät ?
+Oder ist HSMD noch gar nicht frei geschaltet?
+
+Generell ist mein CE Rechner für Internet konfiguriert und surfen tue ich 
+über die E-Plus Nummer 123100.
+
+Da ich WinCE auch noch nicht so lange nutze wäre eine Beschreibungen für 
+"Anfänger" nett.
+
+Sven Steinert, Hagen
+-------------------------------------
+--497953451.983703581930.JavaMail.nsuser@app03mn1--
+

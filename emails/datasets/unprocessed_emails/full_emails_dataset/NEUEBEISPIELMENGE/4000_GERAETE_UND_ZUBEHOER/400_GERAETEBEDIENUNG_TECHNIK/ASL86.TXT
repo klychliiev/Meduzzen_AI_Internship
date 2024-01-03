@@ -1,0 +1,31 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	04.02.2001 08:55:20
+Betreff:	E-Mail Beantwortung  [Virus checked]
+
+	  
+
+
+--497945593.981273320368.JavaMail.nsuser@app04mn1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=ISO-8859-1
+
+Anrede         : Herr
+Name           : Michael Huppert
+Handyrufnummer : 49 177 6518694
+Account Nummer :=20
+Handymodell    : Nokia 5130
+Provider       : E-Plus Service
+Email          : m.huppert@12move.de
+-------------------------------------
+Nachricht      : Sehr geehrte Damen und Herren,
+im Saarland gilt in allen Ortsnetzen die Telefonnummer 19222 als Nummer 
+der=
+ Rettungsleitstelle, kann ich diese Nummer ohne Vorwahl vom Handy aus anw=
+=E4hlen?
+=DCber eine Antwort w=FCrde ich mich freuen.
+
+MfG M. Huppert
+-------------------------------------
+--497945593.981273320368.JavaMail.nsuser@app04mn1--
+

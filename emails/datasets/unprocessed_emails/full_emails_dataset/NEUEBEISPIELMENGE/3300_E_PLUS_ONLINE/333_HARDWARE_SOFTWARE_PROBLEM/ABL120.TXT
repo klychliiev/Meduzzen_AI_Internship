@@ -1,0 +1,34 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	09.04.2001 19:56:06
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : David Wolf
+Handyrufnummer : 49 178 2326044
+Account Nummer : 1041351
+Handymodell    :
+Provider       : E-Plus Service
+Email          : David@WolfImNetz.de
+-------------------------------------
+Nachricht      : Obwohl ich keine Änderung an der Konfiguration meiner 
+Internet-Software vorgenommen habe, erhalte ich in letzter Zeit bei dem 
+Versuch mich über ePlus einzuwählen immer den Hinweis, dass eine Verindung 
+nicht hergestellt werden kann und ich das Passwort überprüfen solle. Es 
+gehört allerdings zu der Konfiguration meiner Software, dass dieses 
+Passwort gespeichert wird.
+
+Weiter Informationen:
+OS: Win98
+Bis vor ca. 2 Monaten war ich noch Dauervertragskunde bei ePlus mit der 
+Tel-Nr 0177/5472733
+
+MfG
+Wolf
+-------------------------------------
+--497949543.986842566627.JavaMail.nsuser@apps2mn1--
+

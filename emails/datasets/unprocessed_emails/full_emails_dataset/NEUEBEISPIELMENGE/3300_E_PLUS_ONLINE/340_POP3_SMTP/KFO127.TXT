@@ -1,0 +1,25 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	29.10.2001 10:58:36
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Michael Eismann
+Handyrufnummer : 49 177 4331469
+Account Nummer : 2997504
+Handymodell    :
+Provider       : E-Plus Service
+Email          : michael.eismann@eplus-online.de
+-------------------------------------
+Nachricht      : Leider ist der smtp Server mail.eplus-online.de zum 
+Versenden von EMail Nachrichten nicht erreichbar, bzw. nimmt dieser keine 
+zu versendenden Emails an. Liegt ein Fehler vor oder wurde dieser Service 
+abgeschafft?
+
+
+Michael Eismann
+-------------------------------------

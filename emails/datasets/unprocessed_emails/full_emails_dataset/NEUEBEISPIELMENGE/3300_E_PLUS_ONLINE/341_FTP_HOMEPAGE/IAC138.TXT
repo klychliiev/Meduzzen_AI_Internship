@@ -1,0 +1,31 @@
+An:	KUNDENSERVICE@EPLUS
+Kopie:	 
+Datum:	08.09.2001 16:58:54
+Betreff:	E-Mail Beantwortung
+
+	  
+
+
+
+Anrede         : Herr
+Name           : Thorsten Kramer
+Handyrufnummer : 49 177 2436818
+Account Nummer : 2119284
+Handymodell    : 3210
+Provider       : E-Plus Service
+Email          : thorsten-kramer@eplus-online.de
+-------------------------------------
+Nachricht      : Hallo,
+
+ich habe eine Frage zu meiner Homepage.
+http://home.eplus-online.de/bubi/index.htm
+Ich habe Sie mit Front page erstellt und einen Besucher/Zugriffszähler 
+eingebunden, welcher aber nicht funktioniert.
+Können Sie mir da vielleicht weiterhelfen?
+Von der Einbindung her ist alles richtig. Müssen Sie Ihn erst Aktivieren.
+Vielen Dank,
+
+T. Kramer
+-------------------------------------
+--443404831.999964734367.JavaMail.nsuser@apps2mn1--
+
