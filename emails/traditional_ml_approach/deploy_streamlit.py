@@ -1,21 +1,18 @@
 import streamlit as st
-from training_script import models, X_train_tfidf, y_train, count_vect
+from linear_svc_classifier import clf, count_vect
 
-clf = models[1].fit(X_train_tfidf, y_train)
+def main():
 
-st.title("German Email Category Detection")
-st.markdown("Predicting the category of the input email (Rechnungen, Mahnungen, Tarife, Sim Aktivierung, Storno, Vertraege) using LinearCSV.")
+    st.title("German Email Category Detection")
+    st.markdown("Predicting the category of the input email (Rechnungen, Mahnungen, Tarife, Sim Aktivierung, Storno, Vertraege) using LinearCSV.")
 
-message = st.text_input('Enter an email:')
+    message = st.text_input('Enter an email:')
 
-submit = st.button('Predict')
+    submit = st.button('Predict')
 
-if submit:
+    if submit:
+        prediction = clf.predict(count_vect.transform([message]))
+        st.write(f"Predicted category: {prediction[0].capitalize()}.")
 
-    prediction = clf.predict(count_vect.transform([message]))
-
-    print(prediction)
-
-    st.write(f"Predicted category: {prediction[0].capitalize()}.")
-
-# streamlit run app.py 
+if __name__=='__main__':
+    main()
