@@ -1,17 +1,17 @@
 # Emails classification 
-<b>Email classification</b> is a task which involves classifying emails into meaningful groups using a supervised algorithm and Natural Language Processing (NLP).
+<b>Email classification</b> is a task which involves classifying emails into meaningful groups using a supervised algorithm and Natural Language Processing (NLP). In this challenge, we deal with German-language emails belonging to different categories (21 overall). 
 
 ## Approach 
 
 The problem was approached using 3 methods for text classification:
 <ol>
-<li> Traditional ML algorithms 
+<li> Traditional ML algorithms
 <li> Zero-shot classification using LLMs
 <li> Few-shot classification using Flair framework
 </ol>
 
 ## Project structure 
-There are 4 folders in this directory, with one containing datasets and code snippets needed for dataset generation, and with other 3 containing source code for all text classification methods (traditional ML, zero-shot and few-shot classification). 
+There are 4 folders in this directory, with one containing datasets and code snippets needed for dataset generation ('datasets'), and with other 3 containing source code for all text classification methods (traditional ML, zero-shot and few-shot classification using Flair). 
 
 ```
 .
@@ -26,6 +26,7 @@ There are 4 folders in this directory, with one containing datasets and code sni
     │   │   └── model / ...
     │   ├── flair_emails_classification.ipynb 
     │   ├── full_dataset.csv 
+    |   ├── metadata / ...
     │   ├── requirements.txt 
     │   ├── streamlit_app.py 
     │   ├── text_cleaning.py
@@ -34,6 +35,7 @@ There are 4 folders in this directory, with one containing datasets and code sni
     │   ├── deploy_streamlit.py 
     │   ├── Dockerfile
     │   ├── linear_svc_classifier.py
+    |   ├── metadata / ...
     │   ├── requirements.txt
     │   ├── short_dataset.csv
     │   ├── text_cleaning.py
@@ -58,15 +60,36 @@ There are 4 folders in this directory, with one containing datasets and code sni
 | pandas | :heavy_minus_sign: | Tabular data manipulation | 
 
 ## German Text Decoding 
-<b> :no_entry: utf-8: </b> <br>
-übermitteln - ьbermitteln <br>
-Paßwort (High German - Passwort) - PaЯwort <br>
-möglich - mцglich <br>
+Initially, utf-8 encoding was used, however, some emails were broken with German special characters being displayed incorrectly (vowels with diacritics and Eszett letter, ß). Using latin-1 encoding resolved the issue. 
+| utf-8 |  latin-1 |
+|:---:|:---:|
+| ьbermitteln  |  übermitteln |
+| PaЯwort  |  Paßwort (High German - Passwort) |
+|  mцglich | möglich  |
 
-<b> :white_check_mark: latin-1</b> decoding reads .txt emails correctly 
+Reading emails using latin-1 encoding and 'with open ... as' syntax:
 
 ``` python
 # reading email using latin-1 decoding in Python
 with open(cont, 'r', encoding='latin-1') as f:
     cont = f.read()
 ```
+
+## Performance 
+Small dataset (6 categories)
+| Approach | Algorithm/model | Accuracy (%) |   
+|---|---|:---:|
+|Traditional ML | Linear SVC |  64 |   
+|   | Logistics regression | 61 |   
+|   | Multionmial NB | 59 |   
+|   | Random forest | 46 |   
+| Zero-shot classification| Gbert Large Zeroshot Nli  | 51  |   
+|   | German Zeroshot | 42 |   
+|  | German GPT-2 | 21 |
+
+Full dataset (21 categories)
+| Approach | Model  | Embeddings  |  Accuracy  |
+|---|---|---|---|
+| Few-shot classification | Flair | distil-bert  | 49 |
+|   |   | bert-german-uncased  | 53 |
+|   |   | bert-german-cased | 58 |
