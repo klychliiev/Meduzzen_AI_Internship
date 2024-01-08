@@ -2,6 +2,40 @@
 
 Flair is an NLP framework developed by Humboldt University of Berlin. It is build on top of PyTorch. It also allows easy integration of different word embeddings into the project. 
 
+## Project structure 
+
+| Item  | Description  |
+|---|---|
+| flair/ | Contains 'data/' and 'model/' folders which contain training/validation/testing data and the trained Flair model, respectively.  |
+| metadata/ | Contains metadata used in README. |
+| flair_emails_classification.ipynb | Notebook describing dataset creation and model training process step-by-step.  |
+| full_dataset.csv | Dataset in its initial form (.csv format). Contains unprocessed emails belonging to 21 categories. |
+| requirements.txt | Packages to install in order to run the program.  |
+| streamlit_app.py | Web application with model inference. |
+| text_cleaning.py | Python script containing functions for email body extraction (fetch_body) and text preprocessing (preprocess_text). |
+| training_script.py | Python script for training the model for text classification. |
+| README.md | Overview of the project.  |
+
+Project structure as a tree:
+```
+flair_model_training/
+├── flair/
+│   ├── data/
+│   │   ├── test.txt
+│   │   ├── train.txt
+│   │   └── valid.txt
+│   └── model/
+├── flair_emails_classification.ipynb
+├── full_dataset.csv
+├── metadata/
+│   └── data_imbalance.png
+├── README.md
+├── requirements.txt
+├── streamlit_app.py
+├── text_cleaning.py
+└── training_scipt.py
+```
+
 ## Run the program
 ### Using pipenv 
 
