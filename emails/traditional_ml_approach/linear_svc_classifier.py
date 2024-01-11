@@ -5,7 +5,7 @@ from sklearn.svm import LinearSVC
 from sklearn.model_selection import train_test_split
 from text_cleaning import fetch_body, preprocess_text
 
-SHORT_EMAIL_DATASET_PATH = "short_dataset.csv"
+dataset_path = "short_dataset.csv"
 
 def process_dataset():
     """
@@ -17,7 +17,7 @@ def process_dataset():
         df (pd.DataFrame): DataFrame containing preprocessed emails.
     
     """
-    df = pd.read_csv(SHORT_EMAIL_DATASET_PATH)
+    df = pd.read_csv(dataset_path)
     df = df.drop('Unnamed: 0', axis=1)
     df = df.sample(frac=1)
     df.reset_index(drop=True, inplace=True)
