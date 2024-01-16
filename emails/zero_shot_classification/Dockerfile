@@ -1,11 +1,10 @@
-FROM python:3.9.18-slim-bullseye
-
-RUN pip install --upgrade pip 
-
-COPY . /app/
+FROM python:3.10.12-slim-buster
 
 WORKDIR /app 
 
-RUN pip install -r requirements.txt
+COPY requirements.txt . 
+RUN pip install --no-cache-dir -r requirements.txt 
+
+COPY . /app/
 
 CMD ["streamlit", "run", "streamlit_app.py"]
