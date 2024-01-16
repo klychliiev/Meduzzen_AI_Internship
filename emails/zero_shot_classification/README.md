@@ -12,13 +12,28 @@
 | streamlit_app.py | Zero-shot text classifier deployed as a streamlit web application.  |
 |  README.md | Overview of the project.  |
 
-
+```tree
+zero_shot_classification/
+├── Dockerfile
+├── metadata/
+│   ├── data_distirbution.jpg
+│   ├── logo-hugging-face.png
+│   ├── text-classification.png
+│   └── web-app_interface.jpg
+├── README.md
+├── requirements.txt
+├── short_dataset.csv
+├── streamlit_app.py
+└── zero_shot_classification_emails.ipynb
+```
 ## Run the program 
 
 ### Streamlit Cloud 
 This app was uploaded to the Streamlit Cloud and can be easily accessed via this link: https://zero-shot-text-classifier-bart.streamlit.app/
 
-However, if you will to play around it locally you may use Docker.
+To classify texts using this app, you should have a HuggingFace account. If you don't have one, register <a href="https://huggingface.co/">here</a>. Once you've done it, go to the <a href="https://huggingface.co/settings/tokens">settings</a> and generate Access Token. Now, open a sidebar of the app and write the key you've just generated. Now, you can set the labels and perform zero-shot text classification. For more information about the app open the 'Info' tab.
+
+If you will to play around the project locally you may use Docker.
 
 ### Docker 
 ```shell
@@ -45,8 +60,9 @@ Collecting usage statistics. To deactivate, set browser.gatherUsageStats to Fals
 ## Data 
 To check the performance of different models, we use the short version of emails dataset containing 365 emails belonging to 6 different categories.
 
-Categories:
-<ol> Rechnungen
+<b>Categories</b>:
+<ol> 
+<li>Rechnungen
 <li> Storno
 <li> Mahnungen 
 <li> Tarife
@@ -55,11 +71,13 @@ Categories:
 </ol>
 
 Data disribution by classes:
+
 ![data-distirbution](metadata/data_distirbution.jpg)
 
 ## Data processing 
-1. Emails decoding 
-2. Email content extraction 
+1. <b>Emails decoding</b> using latin-1 encoding. It allows to decode German special characters (vowels with diacritics and ß) correctly.
+2. <b>Email content extraction</b> 
+
 All emails have similar structure
 For example, consider the email below: 
 
@@ -86,7 +104,7 @@ Dallmann Stephanie
 --443437766.1004379539411.JavaMail.nsuser@apps1mn1--
 
 ```
-The email body - the message itself - starts after the word 'Nachricht' and ends before multiple dash characters. We define a function fetch_body which will extract text between these two sets of characters using inbuilt Python split method.
+The email body - the message itself - starts after the word 'Nachricht' and ends before multiple dash characters. We define a function <em>fetch_body</em> which will extract text between these two sets of characters using inbuilt Python split method.
 
 ```python
 import re
@@ -112,7 +130,7 @@ def fetch_body(text: str):
 
 df['Email_body'] = df['Content_fixed'].apply(fetch_body)
 ```
-Also the function normalizes the spaces: newlines are replaced with single spaces, multiple spaces are replaced with single spaces, the space is also added after some puctuation marks (exclamation mark, question mark, comma, period). 
+Also the function normalizes the spaces: newlines are replaced with single spaces, multiple spaces are replaced with single spaces, the space is also added after some punctuation marks (exclamation mark, question mark, comma, period). 
 
 Now, texts are human-readable and normalized:
 ```
@@ -122,18 +140,19 @@ We don't need any furhter preprocessing as zero-shot classification requires sim
 
 ## Models 
 
-We used 4 different models for the task: two BERT-based, one BART-based and one GPT-based
+We used 5 different models for the task: two BERT-based, two BART-based and one GPT-based
 
-| Model  | Base model  | Description  | Performance  |
-|---|---|---|---|
-| bart-large-mnli  | BART (bart-large) | Trained on the MultiNLI (MNLI) Dataset. Multilingual.  | 48%  |
-| German_Zeroshot | BERT (gbert-large)  |  Monolingual (German) | 42% |
-| gbert-large-zeroshot-nli   |  BERT (gbert-large) | Monolingual (German)  |  51% |
-| german-gpt2  | GPT-2 | Monolingual (German) | 21% |
+| Model  | Base model  | Description  | 
+|---|---|---|
+| bart-large-mnli  | BART (bart-large) | Trained on the MultiNLI (MNLI) Dataset. Multilingual.  | 
+| DistilBart-MNLI  | BART (bart-large) | Trained on the MultiNLI (MNLI) Dataset. Multilingual.  | 
+| German_Zeroshot | BERT (gbert-large)  |  Monolingual (German) | 
+| gbert-large-zeroshot-nli   |  BERT (gbert-large) | Monolingual (German)  | 
+| german-gpt2  | GPT-2 | Monolingual (German) | 
 
 ## Performance 
 
-The first 3 models showed similar performance reaching approximately 50% accuracy without any additional techniques applied. The big problem when using zero-shot classification is appropriate class decription. German-Zeroshot model initially couldn't capture the "Aktivierung der SIM-Karte" class and completely ignored them mislassifying it either as "Tarif" or "Vertraeg". After I changed the class description to "Sim-Karten-Aktivierung" it started working.
+The first 4 models showed similar performance reaching approximately 50% accuracy without any additional techniques applied. The big problem when using zero-shot classification is appropriate class description. German-Zeroshot model initially couldn't capture the "Aktivierung der SIM-Karte" class and completely ignored them mislassifying it either as "Tarif" or "Vertraeg". After I changed the class description to "Sim-Karten-Aktivierung" it started working.
 
 Also, model often overfits towards more general classes like "Tarif" and "Vertraeg" ignoring more specific classes ctageories like "Mahnungen" or "Storno". Technically, both Vertraeg and Storno refer to contracts, but the first one is about concluding a contract, while the other one is about contract cancellation.
 
@@ -151,3 +170,5 @@ labels_with_synonyms = {
     "Mahnungen": ["Mahnung", "Mahnbescheid", "Zahlungserinnerung"] 
 }
 ```
+
+For the final application, I used bart-large-mnli model. It showed good results when using synonyms and multi-label classification. Also, it's a good practice to make NLP apps universal for many languages. German_Zeroshot and gbert-large-zeroshot-nli performed well, but they are monolingual. 
