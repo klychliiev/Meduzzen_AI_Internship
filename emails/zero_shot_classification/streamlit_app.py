@@ -10,7 +10,7 @@ from io import BytesIO
 # DEFINE USEFUL FUNCTIONS
 
 
-def query(payload: dict):
+def query(payload: dict, api_url: str, headers: dict):
     """
     Queries HuggingFace API to access the language model
     and perform zero-shot classification.
@@ -18,6 +18,8 @@ def query(payload: dict):
     Args:
         payload (dict): dictionary with input and parameters
                         needed to query the HuggingFace API.
+        api_url (str): inference URL of the chosen language model.
+        headers (dict): headers to be passed when quering an API.
 
     Returns:
         response (dict): dictionary with API response.
@@ -252,88 +254,95 @@ with main_tab:
     # CONDITIONAL STATEMENTS
     # filter invalid inputs and check user activity
 
-    if not submit_button and not st.session_state.valid_inputs_received:
-        st.stop()
-    
-    # check if the user entered HiggingFace API key
-    elif not api_key:
-        st.warning("Please, enter your HuggingFace API Key.")
-        st.stop()
-    
-    # check if there are text to classify
-    elif submit_button and not text:
-        st.warning("There are no texts to classify.")
-        st.session_state.valid_inputs_received = False
-        st.stop()
+    match (submit_button, st.session_state.valid_inputs_received, api_key, text, len(labels)):
+        case (False, False, _, _, _):
+            st.stop()
 
-    # check if there are labels (categories for classification)
-    elif submit_button and not labels or len(labels) == 1:
-        st.warning("Please, add at least two categories for classification.")
-        st.session_state.valid_inputs_received = False
-        st.stop()
+        # check if the user entered HuggingFace API Key
+        case (_, _, "", _, _):
+            st.warning("Please, enter your HuggingFace API Key.")
+            st.stop()
+        
+        # check if there are texts to classify
+        case (True, _, _, "", _) :
+            st.warning("There are no texts to classify.")
+            st.session_state.valid_inputs_received = False
+            st.stop()
 
-    # executed if everything is correct
-    elif submit_button or st.session_state.valid_inputs_received:
-        if submit_button:
-            st.session_state.valid_inputs_received = True
+        # check if there are no labels
+        case (True, _, _, _, 0) :
+            st.warning("Please, add at least two categories for classification.")
+            st.session_state.valid_inputs_received = False
+            st.stop()
 
-        api_output = []
+        # check if there is one label only
+        case (True, _, _, _, 1) :
+            st.warning("Please, add at least one more category for classification.")
+            st.session_state.valid_inputs_received = False
+            st.stop()
 
-        # send an API request for classification for each text written by a user
-        for text in texts_to_classify:
-            json_api_output = query(
-                {
-                    "inputs": text,
-                    "parameters": {"candidate_labels": labels, "multi_label": True},
-                    "options": {"wait_for_model": True},
-                }
-            )
+        # executed if everything is correct
+        case (True, _, _, _, _) | (_, True, _, _, _):
+            if submit_button:
+                st.session_state.valid_inputs_received = True
 
-            api_output.append(json_api_output)
+            api_output = []
 
-            # convert API response to a pandas DataFrame
+            # send an API request for classification for each text written by a user
+            for text in texts_to_classify:
+                json_api_output = query(
+                    {
+                        "inputs": text,
+                        "parameters": {"candidate_labels": labels, "multi_label": True},
+                        "options": {"wait_for_model": True},
+                    },
+                    api_url,
+                    headers
+                )
+                
+                api_output.append(json_api_output)
+
+            st.success(":white_check_mark: Done!")
+
+            st.markdown("#### Check the results!")
+
+            # PROCESS DATAFRAME
+
             df = pd.DataFrame.from_dict(api_output)
+            df.rename(columns={"sequence": "Text"}, inplace=True)
 
-        st.success(":white_check_mark: Done!")
+            # check the number of labels
+            # if the number > 3 display only 3 highest scores and corresponding labels
+            if len(labels) > 3:
+                df["Label"] = df["labels"].str[:3]
+                df["scores"] = df["scores"].apply(lambda x: format_numerals(x, 2))
+                df["Score"] = df["scores"].str[:3]
 
-        st.markdown("#### Check the results!")
+            else:
+                df["Label"] = df["labels"]
+                df["Score"] = [[f"{x:.2%}" for x in row] for row in df["scores"]]
 
-        # PROCESS DATAFRAME
+            df.drop(["labels", "scores"], inplace=True, axis=1)
 
-        df.rename(columns={"sequence": "Text"}, inplace=True)
+            df.index = np.arange(1, len(df) + 1)
 
-        # check the number of labels
-        # if the number > 3 display only 3 highest scores and corresponding labels
-        if len(labels) > 3:
-            df["Label"] = df["labels"].str[:3]
-            df["scores"] = df["scores"].apply(lambda x: format_numerals(x, 2))
-            df["Score"] = df["scores"].str[:3]
+            # display dataframe in streamlit web app
+            AgGrid(df)
 
-        else:
-            df["Label"] = df["labels"]
-            df["Score"] = [[f"{x:.2%}" for x in row] for row in df["scores"]]
+            # DOWNLOAD CLASSIFICATION RESULTS
 
-        df.drop(["labels", "scores"], inplace=True, axis=1)
+            cs, c1 = st.columns([2, 2])
 
-        df.index = np.arange(1, len(df) + 1)
+            with cs:
+                # Dropdown for selecting file format
+                file_format = st.selectbox("Select file format:", ["JSON", "CSV", "XLS"])
+                
+                # Download button
+                converted_data = convert_df(df, file_format)
 
-        # display datatframe in streamlit web app
-        AgGrid(df)
-
-        # DOWNLOAD CLASSIFICATION RESULTS
-
-        cs, c1 = st.columns([2, 2])
-
-        with cs:
-            # Dropdown for selecting file format
-            file_format = st.selectbox("Select file format:", ["JSON", "CSV", "XLS"])
-
-            converted_data = convert_df(df, file_format)
-
-            # Download button
-            st.download_button(
-                label="Download results",
-                data=converted_data,
-                file_name="classification_results." + file_format.lower(),
-                mime="application/octet-stream",
-            )
+                st.download_button(
+                    label="Download results",
+                    data=converted_data,
+                    file_name="classification_results." + file_format.lower(),
+                    mime="application/octet-stream",
+                )
