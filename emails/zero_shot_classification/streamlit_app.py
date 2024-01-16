@@ -1,10 +1,10 @@
-import streamlit as st  # build ML web applications
-import requests  # make API calls
-import pandas as pd  # process tabular data
-import numpy as np  # conduct numerical computations
-from streamlit_tags import st_tags  # display and manage tags (category labels)
-from st_aggrid import AgGrid  # display DataFrame in streamlit app
-from io import BytesIO  # save data as a file to a local machine
+import streamlit as st  
+import requests  
+import pandas as pd  
+import numpy as np  
+from streamlit_tags import st_tags  
+from st_aggrid import AgGrid
+from io import BytesIO  
 
 
 # DEFINE USEFUL FUNCTIONS

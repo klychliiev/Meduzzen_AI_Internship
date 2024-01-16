@@ -1,6 +1,17 @@
+# Performing numerical calculations
 numpy==1.26.3
+
+# Data analysis on tabular data 
 pandas==2.1.4
+
+# Making API calls 
 Requests==2.31.0
+
+# Building ML web applications
 streamlit==1.30.0
+
+# Display and manage streamlit tags (category labels
 streamlit-tags==1.2.8
+
+# Display DataFrame in streamlit app in interactive way
 streamlit-aggrid==0.3.4.post3 
