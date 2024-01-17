@@ -1,13 +1,13 @@
-import re 
-import spacy 
+import re
+import spacy
 
 
 # load German-language model for stop words removal
 de_nlp = spacy.load("de_core_news_sm")
 
 
-# function to fetch the email body 
-def fetch_body(text):
+# function to fetch the email body
+def fetch_body(text: str) -> str:
     """
     Fetches email body (the message itself) from each email.
     All the emails have similar structure, starting after the word 'Nachricht'
@@ -19,27 +19,27 @@ def fetch_body(text):
     Returns:
         text (str): email body with no newlines
     """
-    my_text = text.split('Nachricht      : ')[-1]
-    text =  my_text.split('--')[0]
-    return text.replace('\n', ' ')
+    my_text = text.split("Nachricht      : ")[-1]
+    text = my_text.split("--")[0]
+    return text.replace("\n", " ")
 
 
 # function to preprocess emails (text normalization)
-def preprocess_text(text):
+def preprocess_text(text: str) -> str:
     """
-    Function for text preprocessing. 
-    Includes the following steps: 
+    Function for text preprocessing.
+    Includes the following steps:
     1. lowercase conversion
     2. special characters, punctuation and stopwords removal
     3. lemmatization
     4. deletion of artefacts left after preprocessing (dashes and extra spaces)
     """
     text = text.lower()
-    text = re.sub(r'^a-zäöüß0-9\s', '', text)
-    text = re.sub(r'\s', ' ', text).strip()
+    text = re.sub(r"^a-zäöüß0-9\s", "", text)
+    text = re.sub(r"\s", " ", text).strip()
     doc = de_nlp(text)
     no_stopwords_sent = [str(word.lemma_).lower() for word in doc if not word.is_stop]
-    text = ' '.join(no_stopwords_sent)
-    text = re.sub('--', '', text.replace('\n', ''))
-    text = re.sub(' +', ' ', text)
-    return text  
+    text = " ".join(no_stopwords_sent)
+    text = re.sub("--", "", text.replace("\n", ""))
+    text = re.sub(" +", " ", text)
+    return text
