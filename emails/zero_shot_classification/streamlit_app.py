@@ -10,7 +10,7 @@ from io import BytesIO
 # DEFINE USEFUL FUNCTIONS
 
 
-def query(payload: dict, api_url: str, headers: dict):
+def query(payload: dict, api_url: str, headers: dict) -> dict:
     """
     Queries HuggingFace API to access the language model
     and perform zero-shot classification.
@@ -28,7 +28,7 @@ def query(payload: dict, api_url: str, headers: dict):
     return response.json()
 
 
-def format_numerals(numerals: list, decimals: int):
+def format_numerals(numerals: list, decimals: int) -> list:
     """
     Accepts a list of scores representing probabilities
     (floating-point numbers in range [0,1]) of text belonging to certain categories.
